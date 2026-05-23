@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-23T14:27:43.213285+00:00",
+  "timestamp": "2026-05-23T15:04:44.321083+00:00",
   "date": "Saturday, May 23 2026",
   "market_status": "CLOSED",
   "market_bias": "RANGE",
@@ -84,8 +84,8 @@
       "recovery_rsi": {
         "low": 35,
         "high": 40,
-        "samples": 60,
-        "median": 36.1
+        "samples": 61,
+        "median": 36.2
       }
     },
     {
@@ -408,35 +408,6 @@
       }
     },
     {
-      "ticker": "HIMS",
-      "price": 23.75,
-      "change": -1.08,
-      "volume": 14747300,
-      "expiry": "2026-05-29",
-      "dte": 6,
-      "pcr_vol": 0.5,
-      "pcr_oi": 0.62,
-      "gex": 1.79,
-      "gex_regime": "POSITIVE",
-      "call_premium": 0.77,
-      "put_premium": 0.68,
-      "unusual": true,
-      "score": 4,
-      "direction": "BULLISH",
-      "call_vol": 16653,
-      "put_vol": 8263,
-      "expiry_next_week": "2026-06-05",
-      "dte_next_week": 13,
-      "score_next_week": 3,
-      "direction_next_week": "BULLISH",
-      "recovery_rsi": {
-        "low": 35,
-        "high": 40,
-        "samples": 61,
-        "median": 35.9
-      }
-    },
-    {
       "ticker": "GOOGL",
       "price": 382.97,
       "change": -1.21,
@@ -495,35 +466,6 @@
       }
     },
     {
-      "ticker": "BA",
-      "price": 219.02,
-      "change": -0.27,
-      "volume": 4632400,
-      "expiry": "2026-05-29",
-      "dte": 6,
-      "pcr_vol": 0.5,
-      "pcr_oi": 0.52,
-      "gex": 1.84,
-      "gex_regime": "POSITIVE",
-      "call_premium": 3.59,
-      "put_premium": 2.37,
-      "unusual": true,
-      "score": 4,
-      "direction": "BULLISH",
-      "call_vol": 14803,
-      "put_vol": 7343,
-      "expiry_next_week": "2026-06-05",
-      "dte_next_week": 13,
-      "score_next_week": 3,
-      "direction_next_week": "BULLISH",
-      "recovery_rsi": {
-        "low": 35,
-        "high": 40,
-        "samples": 54,
-        "median": 35.0
-      }
-    },
-    {
       "ticker": "SNDK",
       "price": 1478.69,
       "change": -4.12,
@@ -550,35 +492,6 @@
         "high": 40,
         "samples": 56,
         "median": 36.7
-      }
-    },
-    {
-      "ticker": "MSTR",
-      "price": 159.89,
-      "change": -3.01,
-      "volume": 12713800,
-      "expiry": "2026-05-29",
-      "dte": 6,
-      "pcr_vol": 0.64,
-      "pcr_oi": 0.65,
-      "gex": 23.36,
-      "gex_regime": "POSITIVE",
-      "call_premium": 19.79,
-      "put_premium": 14.9,
-      "unusual": true,
-      "score": 3,
-      "direction": "BULLISH",
-      "call_vol": 85326,
-      "put_vol": 54210,
-      "expiry_next_week": "2026-06-05",
-      "dte_next_week": 13,
-      "score_next_week": 4,
-      "direction_next_week": "BEARISH",
-      "recovery_rsi": {
-        "low": 35,
-        "high": 40,
-        "samples": 62,
-        "median": 35.3
       }
     },
     {
@@ -637,6 +550,35 @@
         "high": 40,
         "samples": 60,
         "median": 36.7
+      }
+    },
+    {
+      "ticker": "TQQQ",
+      "price": 77.84,
+      "change": 1.16,
+      "volume": 57830700,
+      "expiry": "2026-05-29",
+      "dte": 6,
+      "pcr_vol": 1.17,
+      "pcr_oi": 1.54,
+      "gex": 5.89,
+      "gex_regime": "POSITIVE",
+      "call_premium": 12.71,
+      "put_premium": 5.41,
+      "unusual": true,
+      "score": 3,
+      "direction": "BULLISH",
+      "call_vol": 50387,
+      "put_vol": 59102,
+      "expiry_next_week": "2026-06-05",
+      "dte_next_week": 13,
+      "score_next_week": 4,
+      "direction_next_week": "BEARISH",
+      "recovery_rsi": {
+        "low": 30,
+        "high": 35,
+        "samples": 63,
+        "median": 35.7
       }
     },
     {
@@ -717,6 +659,30 @@
       "recovery_rsi": null
     },
     {
+      "ticker": "USO",
+      "price": 140.92,
+      "change": -1.14,
+      "volume": 7416500,
+      "expiry": "2026-05-27",
+      "dte": 4,
+      "pcr_vol": 0.92,
+      "pcr_oi": 1.27,
+      "gex": -1.05,
+      "gex_regime": "NEGATIVE",
+      "call_premium": 4.57,
+      "put_premium": 3.27,
+      "unusual": true,
+      "score": 1,
+      "direction": "NEUTRAL",
+      "call_vol": 17933,
+      "put_vol": 16507,
+      "expiry_next_week": "2026-06-05",
+      "dte_next_week": 13,
+      "score_next_week": 2,
+      "direction_next_week": "BEARISH",
+      "recovery_rsi": null
+    },
+    {
       "ticker": "AVGO",
       "price": 414.14,
       "change": -0.1,
@@ -739,6 +705,12 @@
       "score_next_week": 4,
       "direction_next_week": "BULLISH",
       "recovery_rsi": null
+    },
+    {
+      "ticker": "CSCO",
+      "error": "database is locked",
+      "score": 0,
+      "direction": "NEUTRAL"
     }
   ],
   "top_picks": [
@@ -796,8 +768,8 @@
       "recovery_rsi": {
         "low": 35,
         "high": 40,
-        "samples": 60,
-        "median": 36.1
+        "samples": 61,
+        "median": 36.2
       }
     },
     {
