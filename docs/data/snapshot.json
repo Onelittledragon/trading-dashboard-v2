@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-23T20:32:32.624407+00:00",
+  "timestamp": "2026-05-23T21:33:06.767923+00:00",
   "date": "Saturday, May 23 2026",
   "market_status": "CLOSED",
   "market_bias": "RANGE",
@@ -113,8 +113,8 @@
       "recovery_rsi": {
         "low": 35,
         "high": 40,
-        "samples": 61,
-        "median": 36.2
+        "samples": 60,
+        "median": 36.1
       }
     },
     {
@@ -376,35 +376,6 @@
         "high": 40,
         "samples": 71,
         "median": 37.0
-      }
-    },
-    {
-      "ticker": "NVDA",
-      "price": 215.33,
-      "change": -1.9,
-      "volume": 168346300,
-      "expiry": "2026-05-26",
-      "dte": 3,
-      "pcr_vol": 0.5,
-      "pcr_oi": 0.41,
-      "gex": 0.85,
-      "gex_regime": "POSITIVE",
-      "call_premium": 34.93,
-      "put_premium": 39.39,
-      "unusual": true,
-      "score": 4,
-      "direction": "BULLISH",
-      "call_vol": 329528,
-      "put_vol": 166076,
-      "expiry_next_week": "2026-06-05",
-      "dte_next_week": 13,
-      "score_next_week": 4,
-      "direction_next_week": "BULLISH",
-      "recovery_rsi": {
-        "low": 35,
-        "high": 40,
-        "samples": 70,
-        "median": 34.5
       }
     },
     {
@@ -734,6 +705,12 @@
       "score_next_week": 4,
       "direction_next_week": "BULLISH",
       "recovery_rsi": null
+    },
+    {
+      "ticker": "NVDA",
+      "error": "database is locked",
+      "score": 0,
+      "direction": "NEUTRAL"
     }
   ],
   "top_picks": [
@@ -820,8 +797,8 @@
       "recovery_rsi": {
         "low": 35,
         "high": 40,
-        "samples": 61,
-        "median": 36.2
+        "samples": 60,
+        "median": 36.1
       }
     }
   ]
