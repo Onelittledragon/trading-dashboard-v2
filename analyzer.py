@@ -8,8 +8,8 @@ import yfinance as yf
 from curl_cffi import requests as curl_requests
 
 WATCHLIST = ['NVDA', 'RKLB', 'CSCO', 'TSLA', 'AAPL', 'IREN', 'AMD', 'AMZN',
-             'HIMS', 'ARM', 'OKLO', 'META', 'QQQ', 'PLTR', 'CRM', 'CRWV',
-             'MSFT', 'GOOGL', 'BABA', 'PANW', 'INTC', 'AVGO', 'BA', 'MU',
+             'USO', 'ARM', 'OKLO', 'META', 'QQQ', 'PLTR', 'CRM', 'CRWV',
+             'MSFT', 'GOOGL', 'BABA', 'PANW', 'INTC', 'AVGO', 'TQQQ', 'MU',
              'SNDK']
 RISK_FREE_RATE = 0.053
 
