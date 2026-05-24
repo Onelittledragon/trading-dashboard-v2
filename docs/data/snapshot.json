@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-24T01:35:39.440714+00:00",
+  "timestamp": "2026-05-24T05:46:41.681810+00:00",
   "date": "Sunday, May 24 2026",
   "market_status": "CLOSED",
   "market_bias": "RANGE",
@@ -30,6 +30,35 @@
     "recovery_rsi": null
   },
   "tickers": [
+    {
+      "ticker": "RKLB",
+      "price": 135.76,
+      "change": 8.22,
+      "volume": 32862100,
+      "expiry": "2026-05-29",
+      "dte": 5,
+      "pcr_vol": 0.6,
+      "pcr_oi": 1.02,
+      "gex": 3.12,
+      "gex_regime": "POSITIVE",
+      "call_premium": 27.26,
+      "put_premium": 5.17,
+      "unusual": true,
+      "score": 5,
+      "direction": "BULLISH",
+      "call_vol": 38223,
+      "put_vol": 23055,
+      "expiry_next_week": "2026-06-05",
+      "dte_next_week": 12,
+      "score_next_week": 4,
+      "direction_next_week": "BULLISH",
+      "recovery_rsi": {
+        "low": 35,
+        "high": 40,
+        "samples": 63,
+        "median": 37.3
+      }
+    },
     {
       "ticker": "CSCO",
       "price": 120.41,
@@ -705,15 +734,38 @@
       "score_next_week": 4,
       "direction_next_week": "BULLISH",
       "recovery_rsi": null
-    },
-    {
-      "ticker": "RKLB",
-      "error": "database is locked",
-      "score": 0,
-      "direction": "NEUTRAL"
     }
   ],
   "top_picks": [
+    {
+      "ticker": "RKLB",
+      "price": 135.76,
+      "change": 8.22,
+      "volume": 32862100,
+      "expiry": "2026-05-29",
+      "dte": 5,
+      "pcr_vol": 0.6,
+      "pcr_oi": 1.02,
+      "gex": 3.12,
+      "gex_regime": "POSITIVE",
+      "call_premium": 27.26,
+      "put_premium": 5.17,
+      "unusual": true,
+      "score": 5,
+      "direction": "BULLISH",
+      "call_vol": 38223,
+      "put_vol": 23055,
+      "expiry_next_week": "2026-06-05",
+      "dte_next_week": 12,
+      "score_next_week": 4,
+      "direction_next_week": "BULLISH",
+      "recovery_rsi": {
+        "low": 35,
+        "high": 40,
+        "samples": 63,
+        "median": 37.3
+      }
+    },
     {
       "ticker": "CSCO",
       "price": 120.41,
@@ -770,35 +822,6 @@
         "high": 40,
         "samples": 61,
         "median": 36.2
-      }
-    },
-    {
-      "ticker": "AAPL",
-      "price": 308.82,
-      "change": 1.26,
-      "volume": 43627900,
-      "expiry": "2026-05-26",
-      "dte": 2,
-      "pcr_vol": 0.56,
-      "pcr_oi": 0.69,
-      "gex": 23.28,
-      "gex_regime": "POSITIVE",
-      "call_premium": 12.86,
-      "put_premium": 5.34,
-      "unusual": true,
-      "score": 5,
-      "direction": "BULLISH",
-      "call_vol": 95946,
-      "put_vol": 53374,
-      "expiry_next_week": "2026-06-05",
-      "dte_next_week": 12,
-      "score_next_week": 5,
-      "direction_next_week": "BULLISH",
-      "recovery_rsi": {
-        "low": 35,
-        "high": 40,
-        "samples": 64,
-        "median": 38.2
       }
     }
   ]
