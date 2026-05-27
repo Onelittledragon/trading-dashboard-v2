@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-27T21:49:03.555687+00:00",
+  "timestamp": "2026-05-27T23:05:50.609978+00:00",
   "date": "Wednesday, May 27 2026",
   "market_status": "CLOSED",
   "market_bias": "RANGE",
@@ -413,35 +413,6 @@
       }
     },
     {
-      "ticker": "QQQ",
-      "price": 729.45,
-      "change": -0.11,
-      "volume": 33502484,
-      "expiry": "2026-05-27",
-      "dte": 0,
-      "pcr_vol": 0.83,
-      "pcr_oi": 2.86,
-      "gex": 157.74,
-      "gex_regime": "POSITIVE",
-      "call_premium": 191.95,
-      "put_premium": 27.22,
-      "unusual": true,
-      "score": 4,
-      "direction": "BULLISH",
-      "call_vol": 2179357,
-      "put_vol": 1807686,
-      "expiry_next_week": "2026-06-03",
-      "dte_next_week": 7,
-      "score_next_week": 3,
-      "direction_next_week": "BULLISH",
-      "recovery_rsi": {
-        "low": 35,
-        "high": 40,
-        "samples": 54,
-        "median": 36.8
-      }
-    },
-    {
       "ticker": "MSFT",
       "price": 412.67,
       "change": -0.81,
@@ -749,6 +720,12 @@
       "score_next_week": 4,
       "direction_next_week": "BEARISH",
       "recovery_rsi": null
+    },
+    {
+      "ticker": "QQQ",
+      "error": "Too Many Requests. Rate limited. Try after a while.",
+      "score": 0,
+      "direction": "NEUTRAL"
     }
   ],
   "top_picks": [
