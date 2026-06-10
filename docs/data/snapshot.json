@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-06-10T21:17:28.357165+00:00",
+  "timestamp": "2026-06-10T23:00:40.629269+00:00",
   "date": "Wednesday, June 10 2026",
   "market_status": "CLOSED",
   "market_bias": "TREND_DOWN",
@@ -726,7 +726,7 @@
       "put_vol": 29434,
       "expiry_next_week": "2026-06-18",
       "dte_next_week": 8,
-      "score_next_week": 3,
+      "score_next_week": 2,
       "direction_next_week": "BEARISH",
       "recovery_rsi": null
     }
