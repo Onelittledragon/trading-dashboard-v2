@@ -1,7 +1,7 @@
 {
-  "timestamp": "2026-06-18T06:27:35.985507+00:00",
+  "timestamp": "2026-06-18T10:55:57.423960+00:00",
   "date": "Thursday, June 18 2026",
-  "market_status": "CLOSED",
+  "market_status": "OPEN",
   "market_bias": "BULLISH",
   "bias_desc": "Call flow dominant \u2014 mild upside bias",
   "bias_color": "green",
@@ -207,6 +207,35 @@
         "high": 40,
         "samples": 64,
         "median": 37.3
+      }
+    },
+    {
+      "ticker": "CSCO",
+      "price": 117.33,
+      "change": -1.87,
+      "volume": 18456400,
+      "expiry": "2026-06-18",
+      "dte": 0,
+      "pcr_vol": 1.56,
+      "pcr_oi": 0.6,
+      "gex": 0.0,
+      "gex_regime": "POSITIVE",
+      "call_premium": 9.72,
+      "put_premium": 2.17,
+      "unusual": true,
+      "score": 4,
+      "direction": "BEARISH",
+      "call_vol": 9963,
+      "put_vol": 15554,
+      "expiry_next_week": "2026-06-26",
+      "dte_next_week": 8,
+      "score_next_week": 2,
+      "direction_next_week": "BULLISH",
+      "recovery_rsi": {
+        "low": 35,
+        "high": 40,
+        "samples": 74,
+        "median": 37.0
       }
     },
     {
@@ -715,12 +744,6 @@
       "score_next_week": 3,
       "direction_next_week": "BULLISH",
       "recovery_rsi": null
-    },
-    {
-      "ticker": "CSCO",
-      "error": "database is locked",
-      "score": 0,
-      "direction": "NEUTRAL"
     }
   ],
   "top_picks": [
