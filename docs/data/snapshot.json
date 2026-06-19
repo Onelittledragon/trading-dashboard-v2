@@ -1,7 +1,7 @@
 {
-  "timestamp": "2026-06-19T04:58:25.520038+00:00",
+  "timestamp": "2026-06-19T09:48:27.823348+00:00",
   "date": "Friday, June 19 2026",
-  "market_status": "CLOSED",
+  "market_status": "OPEN",
   "market_bias": "NEUTRAL",
   "bias_desc": "Mixed signals \u2014 wait for clarity, reduce size",
   "bias_color": "gray",
@@ -172,6 +172,35 @@
         "low": 35,
         "high": 40,
         "samples": 64,
+        "median": 35.6
+      }
+    },
+    {
+      "ticker": "META",
+      "price": 577.22,
+      "change": 1.7,
+      "volume": 28791600,
+      "expiry": "2026-06-22",
+      "dte": 3,
+      "pcr_vol": 0.57,
+      "pcr_oi": 0.7,
+      "gex": 0.76,
+      "gex_regime": "POSITIVE",
+      "call_premium": 14.15,
+      "put_premium": 7.11,
+      "unusual": true,
+      "score": 5,
+      "direction": "BULLISH",
+      "call_vol": 43834,
+      "put_vol": 24848,
+      "expiry_next_week": "2026-06-26",
+      "dte_next_week": 7,
+      "score_next_week": 5,
+      "direction_next_week": "BULLISH",
+      "recovery_rsi": {
+        "low": 30,
+        "high": 35,
+        "samples": 59,
         "median": 35.6
       }
     },
@@ -698,16 +727,28 @@
       }
     },
     {
-      "ticker": "META",
-      "error": "No price",
-      "score": 0,
-      "direction": "NEUTRAL"
-    },
-    {
       "ticker": "CRM",
-      "error": "No price",
-      "score": 0,
-      "direction": "NEUTRAL"
+      "price": 151.78,
+      "change": -2.09,
+      "volume": 56896000,
+      "expiry": "2026-06-26",
+      "dte": 7,
+      "pcr_vol": 0.91,
+      "pcr_oi": 0.74,
+      "gex": -3.21,
+      "gex_regime": "NEGATIVE",
+      "call_premium": 3.49,
+      "put_premium": 6.02,
+      "unusual": true,
+      "score": 1,
+      "direction": "NEUTRAL",
+      "call_vol": 9581,
+      "put_vol": 8707,
+      "expiry_next_week": "2026-07-02",
+      "dte_next_week": 13,
+      "score_next_week": 4,
+      "direction_next_week": "BULLISH",
+      "recovery_rsi": null
     }
   ],
   "top_picks": [
