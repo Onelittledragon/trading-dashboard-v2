@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-06-27T20:18:56.587536+00:00",
+  "timestamp": "2026-06-27T21:34:18.349993+00:00",
   "date": "Saturday, June 27 2026",
   "market_status": "CLOSED",
   "market_bias": "TREND_DOWN",
@@ -207,64 +207,6 @@
         "high": 40,
         "samples": 56,
         "median": 34.9
-      }
-    },
-    {
-      "ticker": "SNDK",
-      "price": 2090.71,
-      "change": -10.46,
-      "volume": 16799100,
-      "expiry": "2026-07-02",
-      "dte": 5,
-      "pcr_vol": 2.21,
-      "pcr_oi": 3.3,
-      "gex": -1.26,
-      "gex_regime": "NEGATIVE",
-      "call_premium": 161.38,
-      "put_premium": 130.59,
-      "unusual": true,
-      "score": 5,
-      "direction": "BEARISH",
-      "call_vol": 21671,
-      "put_vol": 47969,
-      "expiry_next_week": "2026-07-10",
-      "dte_next_week": 13,
-      "score_next_week": 1,
-      "direction_next_week": "NEUTRAL",
-      "recovery_rsi": {
-        "low": 35,
-        "high": 40,
-        "samples": 55,
-        "median": 37.0
-      }
-    },
-    {
-      "ticker": "NVDA",
-      "price": 192.53,
-      "change": -1.64,
-      "volume": 178906300,
-      "expiry": "2026-06-29",
-      "dte": 2,
-      "pcr_vol": 0.5,
-      "pcr_oi": 1.21,
-      "gex": -33.35,
-      "gex_regime": "NEGATIVE",
-      "call_premium": 12.98,
-      "put_premium": 27.25,
-      "unusual": true,
-      "score": 4,
-      "direction": "BULLISH",
-      "call_vol": 367609,
-      "put_vol": 184927,
-      "expiry_next_week": "2026-07-10",
-      "dte_next_week": 13,
-      "score_next_week": 3,
-      "direction_next_week": "BULLISH",
-      "recovery_rsi": {
-        "low": 35,
-        "high": 40,
-        "samples": 61,
-        "median": 35.1
       }
     },
     {
@@ -729,6 +671,18 @@
       "score_next_week": 2,
       "direction_next_week": "BULLISH",
       "recovery_rsi": null
+    },
+    {
+      "ticker": "NVDA",
+      "error": "database is locked",
+      "score": 0,
+      "direction": "NEUTRAL"
+    },
+    {
+      "ticker": "SNDK",
+      "error": "No price",
+      "score": 0,
+      "direction": "NEUTRAL"
     }
   ],
   "top_picks": [
