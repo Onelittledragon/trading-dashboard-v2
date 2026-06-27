@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-06-27T09:38:32.641289+00:00",
+  "timestamp": "2026-06-27T15:43:15.276432+00:00",
   "date": "Saturday, June 27 2026",
   "market_status": "CLOSED",
   "market_bias": "TREND_DOWN",
@@ -123,6 +123,35 @@
       }
     },
     {
+      "ticker": "CRM",
+      "price": 158.37,
+      "change": 5.45,
+      "volume": 20231900,
+      "expiry": "2026-07-02",
+      "dte": 5,
+      "pcr_vol": 0.42,
+      "pcr_oi": 0.41,
+      "gex": 3.71,
+      "gex_regime": "POSITIVE",
+      "call_premium": 3.64,
+      "put_premium": 1.59,
+      "unusual": true,
+      "score": 5,
+      "direction": "BULLISH",
+      "call_vol": 15454,
+      "put_vol": 6512,
+      "expiry_next_week": "2026-07-10",
+      "dte_next_week": 13,
+      "score_next_week": 4,
+      "direction_next_week": "BULLISH",
+      "recovery_rsi": {
+        "low": 35,
+        "high": 40,
+        "samples": 52,
+        "median": 35.2
+      }
+    },
+    {
       "ticker": "MSFT",
       "price": 372.97,
       "change": 5.71,
@@ -178,6 +207,35 @@
         "high": 40,
         "samples": 56,
         "median": 34.9
+      }
+    },
+    {
+      "ticker": "SNDK",
+      "price": 2090.71,
+      "change": -10.46,
+      "volume": 16799100,
+      "expiry": "2026-07-02",
+      "dte": 5,
+      "pcr_vol": 2.21,
+      "pcr_oi": 3.3,
+      "gex": -1.26,
+      "gex_regime": "NEGATIVE",
+      "call_premium": 161.38,
+      "put_premium": 130.59,
+      "unusual": true,
+      "score": 5,
+      "direction": "BEARISH",
+      "call_vol": 21671,
+      "put_vol": 47969,
+      "expiry_next_week": "2026-07-10",
+      "dte_next_week": 13,
+      "score_next_week": 1,
+      "direction_next_week": "NEUTRAL",
+      "recovery_rsi": {
+        "low": 35,
+        "high": 40,
+        "samples": 55,
+        "median": 37.0
       }
     },
     {
@@ -294,6 +352,35 @@
         "high": 40,
         "samples": 63,
         "median": 36.1
+      }
+    },
+    {
+      "ticker": "GOOGL",
+      "price": 337.39,
+      "change": -1.84,
+      "volume": 114642600,
+      "expiry": "2026-06-29",
+      "dte": 2,
+      "pcr_vol": 0.56,
+      "pcr_oi": 0.67,
+      "gex": -2.42,
+      "gex_regime": "NEGATIVE",
+      "call_premium": 2.39,
+      "put_premium": 6.0,
+      "unusual": true,
+      "score": 4,
+      "direction": "BULLISH",
+      "call_vol": 27156,
+      "put_vol": 15322,
+      "expiry_next_week": "2026-07-10",
+      "dte_next_week": 13,
+      "score_next_week": 2,
+      "direction_next_week": "BULLISH",
+      "recovery_rsi": {
+        "low": 40,
+        "high": 45,
+        "samples": 56,
+        "median": 37.0
       }
     },
     {
@@ -548,6 +635,30 @@
       "recovery_rsi": null
     },
     {
+      "ticker": "CSCO",
+      "price": 113.77,
+      "change": -4.37,
+      "volume": 51631500,
+      "expiry": "2026-07-02",
+      "dte": 5,
+      "pcr_vol": 0.9,
+      "pcr_oi": 0.54,
+      "gex": -0.88,
+      "gex_regime": "NEGATIVE",
+      "call_premium": 0.93,
+      "put_premium": 0.95,
+      "unusual": true,
+      "score": 1,
+      "direction": "NEUTRAL",
+      "call_vol": 6077,
+      "put_vol": 5447,
+      "expiry_next_week": "2026-07-10",
+      "dte_next_week": 13,
+      "score_next_week": 5,
+      "direction_next_week": "BEARISH",
+      "recovery_rsi": null
+    },
+    {
       "ticker": "META",
       "price": 550.25,
       "change": 1.36,
@@ -618,30 +729,6 @@
       "score_next_week": 2,
       "direction_next_week": "BULLISH",
       "recovery_rsi": null
-    },
-    {
-      "ticker": "CSCO",
-      "error": "No price",
-      "score": 0,
-      "direction": "NEUTRAL"
-    },
-    {
-      "ticker": "CRM",
-      "error": "No price",
-      "score": 0,
-      "direction": "NEUTRAL"
-    },
-    {
-      "ticker": "GOOGL",
-      "error": "No price",
-      "score": 0,
-      "direction": "NEUTRAL"
-    },
-    {
-      "ticker": "SNDK",
-      "error": "No price",
-      "score": 0,
-      "direction": "NEUTRAL"
     }
   ],
   "top_picks": [
