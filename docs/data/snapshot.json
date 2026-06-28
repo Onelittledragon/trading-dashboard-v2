@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-06-28T06:20:13.454815+00:00",
+  "timestamp": "2026-06-28T09:39:20.760320+00:00",
   "date": "Sunday, June 28 2026",
   "market_status": "CLOSED",
   "market_bias": "TREND_DOWN",
@@ -239,35 +239,6 @@
       }
     },
     {
-      "ticker": "NVDA",
-      "price": 192.53,
-      "change": -1.64,
-      "volume": 178906300,
-      "expiry": "2026-06-29",
-      "dte": 1,
-      "pcr_vol": 0.5,
-      "pcr_oi": 1.21,
-      "gex": -36.01,
-      "gex_regime": "NEGATIVE",
-      "call_premium": 12.98,
-      "put_premium": 27.25,
-      "unusual": true,
-      "score": 4,
-      "direction": "BULLISH",
-      "call_vol": 367609,
-      "put_vol": 184927,
-      "expiry_next_week": "2026-07-10",
-      "dte_next_week": 12,
-      "score_next_week": 3,
-      "direction_next_week": "BULLISH",
-      "recovery_rsi": {
-        "low": 35,
-        "high": 40,
-        "samples": 61,
-        "median": 35.1
-      }
-    },
-    {
       "ticker": "AMZN",
       "price": 232.69,
       "change": 2.5,
@@ -438,6 +409,35 @@
         "low": 35,
         "high": 40,
         "samples": 63,
+        "median": 35.2
+      }
+    },
+    {
+      "ticker": "RKLB",
+      "price": 84.54,
+      "change": 4.77,
+      "volume": 34325000,
+      "expiry": "2026-07-02",
+      "dte": 4,
+      "pcr_vol": 0.87,
+      "pcr_oi": 0.87,
+      "gex": -1.36,
+      "gex_regime": "NEGATIVE",
+      "call_premium": 1.63,
+      "put_premium": 3.63,
+      "unusual": true,
+      "score": 3,
+      "direction": "BEARISH",
+      "call_vol": 13034,
+      "put_vol": 11327,
+      "expiry_next_week": "2026-07-10",
+      "dte_next_week": 12,
+      "score_next_week": 3,
+      "direction_next_week": "BULLISH",
+      "recovery_rsi": {
+        "low": 30,
+        "high": 35,
+        "samples": 60,
         "median": 35.2
       }
     },
@@ -702,7 +702,7 @@
       "recovery_rsi": null
     },
     {
-      "ticker": "RKLB",
+      "ticker": "NVDA",
       "error": "database is locked",
       "score": 0,
       "direction": "NEUTRAL"
