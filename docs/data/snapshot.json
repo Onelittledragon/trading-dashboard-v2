@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-11T17:18:06.759812+00:00",
+  "timestamp": "2026-07-11T18:12:01.341208+00:00",
   "date": "Saturday, July 11 2026",
   "market_status": "CLOSED",
   "market_bias": "RANGE",
@@ -693,25 +693,9 @@
     },
     {
       "ticker": "CSCO",
-      "price": 121.31,
-      "change": 2.54,
-      "volume": 26176100,
+      "error": "database is locked",
       "score": 0,
-      "direction": "NEUTRAL",
-      "expiry": null,
-      "dte": null,
-      "gex": 0,
-      "gex_regime": "N/A",
-      "pcr_vol": 1.0,
-      "pcr_oi": 1.0,
-      "call_premium": 0,
-      "put_premium": 0,
-      "unusual": false,
-      "score_next_week": null,
-      "direction_next_week": null,
-      "expiry_next_week": null,
-      "dte_next_week": null,
-      "error": "No options listed"
+      "direction": "NEUTRAL"
     }
   ],
   "top_picks": [
