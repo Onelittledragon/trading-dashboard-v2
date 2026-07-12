@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-12T14:15:04.213723+00:00",
+  "timestamp": "2026-07-12T15:27:47.287187+00:00",
   "date": "Sunday, July 12 2026",
   "market_status": "CLOSED",
   "market_bias": "RANGE",
@@ -62,35 +62,6 @@
         "high": 40,
         "samples": 57,
         "median": 38.2
-      }
-    },
-    {
-      "ticker": "CSCO",
-      "price": 121.31,
-      "change": 2.54,
-      "volume": 26176100,
-      "expiry": "2026-07-17",
-      "dte": 5,
-      "pcr_vol": 0.55,
-      "pcr_oi": 1.05,
-      "gex": 18.81,
-      "gex_regime": "POSITIVE",
-      "call_premium": 40.1,
-      "put_premium": 0.74,
-      "unusual": false,
-      "score": 5,
-      "direction": "BULLISH",
-      "call_vol": 28301,
-      "put_vol": 15645,
-      "expiry_next_week": "2026-07-24",
-      "dte_next_week": 12,
-      "score_next_week": 5,
-      "direction_next_week": "BULLISH",
-      "recovery_rsi": {
-        "low": 35,
-        "high": 40,
-        "samples": 52,
-        "median": 35.3
       }
     },
     {
@@ -719,6 +690,12 @@
       "score_next_week": 1,
       "direction_next_week": "NEUTRAL",
       "recovery_rsi": null
+    },
+    {
+      "ticker": "CSCO",
+      "error": "database is locked",
+      "score": 0,
+      "direction": "NEUTRAL"
     }
   ],
   "top_picks": [
@@ -752,35 +729,6 @@
       }
     },
     {
-      "ticker": "CSCO",
-      "price": 121.31,
-      "change": 2.54,
-      "volume": 26176100,
-      "expiry": "2026-07-17",
-      "dte": 5,
-      "pcr_vol": 0.55,
-      "pcr_oi": 1.05,
-      "gex": 18.81,
-      "gex_regime": "POSITIVE",
-      "call_premium": 40.1,
-      "put_premium": 0.74,
-      "unusual": false,
-      "score": 5,
-      "direction": "BULLISH",
-      "call_vol": 28301,
-      "put_vol": 15645,
-      "expiry_next_week": "2026-07-24",
-      "dte_next_week": 12,
-      "score_next_week": 5,
-      "direction_next_week": "BULLISH",
-      "recovery_rsi": {
-        "low": 35,
-        "high": 40,
-        "samples": 52,
-        "median": 35.3
-      }
-    },
-    {
       "ticker": "AAPL",
       "price": 315.32,
       "change": -0.28,
@@ -807,6 +755,35 @@
         "high": 40,
         "samples": 53,
         "median": 35.7
+      }
+    },
+    {
+      "ticker": "AMZN",
+      "price": 245.34,
+      "change": -0.69,
+      "volume": 31624900,
+      "expiry": "2026-07-13",
+      "dte": 1,
+      "pcr_vol": 0.43,
+      "pcr_oi": 0.61,
+      "gex": 12.83,
+      "gex_regime": "POSITIVE",
+      "call_premium": 39.47,
+      "put_premium": 17.81,
+      "unusual": true,
+      "score": 5,
+      "direction": "BULLISH",
+      "call_vol": 73364,
+      "put_vol": 31635,
+      "expiry_next_week": "2026-07-20",
+      "dte_next_week": 8,
+      "score_next_week": 2,
+      "direction_next_week": "BEARISH",
+      "recovery_rsi": {
+        "low": 30,
+        "high": 35,
+        "samples": 52,
+        "median": 36.4
       }
     }
   ]
