@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-14T10:23:45.382541+00:00",
+  "timestamp": "2026-07-14T11:53:07.365638+00:00",
   "date": "Tuesday, July 14 2026",
   "market_status": "OPEN",
   "market_bias": "TREND_DOWN",
@@ -149,35 +149,6 @@
         "high": 45,
         "samples": 57,
         "median": 37.7
-      }
-    },
-    {
-      "ticker": "NVDA",
-      "price": 203.53,
-      "change": -3.52,
-      "volume": 120943800,
-      "expiry": "2026-07-15",
-      "dte": 1,
-      "pcr_vol": 0.6,
-      "pcr_oi": 0.6,
-      "gex": 37.74,
-      "gex_regime": "POSITIVE",
-      "call_premium": 25.53,
-      "put_premium": 40.86,
-      "unusual": true,
-      "score": 4,
-      "direction": "BULLISH",
-      "call_vol": 230631,
-      "put_vol": 137418,
-      "expiry_next_week": "2026-07-22",
-      "dte_next_week": 8,
-      "score_next_week": 5,
-      "direction_next_week": "BEARISH",
-      "recovery_rsi": {
-        "low": 35,
-        "high": 40,
-        "samples": 60,
-        "median": 37.4
       }
     },
     {
@@ -676,6 +647,12 @@
       "score_next_week": 2,
       "direction_next_week": "BULLISH",
       "recovery_rsi": null
+    },
+    {
+      "ticker": "NVDA",
+      "error": "database is locked",
+      "score": 0,
+      "direction": "NEUTRAL"
     },
     {
       "ticker": "AMD",
