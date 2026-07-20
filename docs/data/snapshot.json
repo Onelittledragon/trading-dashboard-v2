@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-20T22:35:54.593109+00:00",
+  "timestamp": "2026-07-20T23:37:16.993474+00:00",
   "date": "Monday, July 20 2026",
   "market_status": "CLOSED",
   "market_bias": "NEUTRAL",
@@ -413,6 +413,35 @@
       }
     },
     {
+      "ticker": "RKLB",
+      "price": 65.74,
+      "change": -2.78,
+      "volume": 17482516,
+      "expiry": "2026-07-24",
+      "dte": 4,
+      "pcr_vol": 0.28,
+      "pcr_oi": 0.96,
+      "gex": -2.04,
+      "gex_regime": "NEGATIVE",
+      "call_premium": 4.6,
+      "put_premium": 5.43,
+      "unusual": true,
+      "score": 3,
+      "direction": "BULLISH",
+      "call_vol": 36859,
+      "put_vol": 10344,
+      "expiry_next_week": "2026-07-31",
+      "dte_next_week": 11,
+      "score_next_week": 3,
+      "direction_next_week": "BULLISH",
+      "recovery_rsi": {
+        "low": 40,
+        "high": 45,
+        "samples": 56,
+        "median": 35.2
+      }
+    },
+    {
       "ticker": "TSLA",
       "price": 369.57,
       "change": -2.96,
@@ -720,12 +749,6 @@
       "score_next_week": 1,
       "direction_next_week": "NEUTRAL",
       "recovery_rsi": null
-    },
-    {
-      "ticker": "RKLB",
-      "error": "database is locked",
-      "score": 0,
-      "direction": "NEUTRAL"
     }
   ],
   "top_picks": [
