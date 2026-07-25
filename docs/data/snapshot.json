@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-25T18:37:36.438187+00:00",
+  "timestamp": "2026-07-25T19:55:01.662283+00:00",
   "date": "Saturday, July 25 2026",
   "market_status": "CLOSED",
   "market_bias": "NEUTRAL",
@@ -162,12 +162,12 @@
       "pcr_oi": 0.63,
       "gex": 1.59,
       "gex_regime": "POSITIVE",
-      "call_premium": 2.39,
+      "call_premium": 2.37,
       "put_premium": 1.01,
       "unusual": true,
       "score": 5,
       "direction": "BULLISH",
-      "call_vol": 9062,
+      "call_vol": 9052,
       "put_vol": 3864,
       "expiry_next_week": "2026-08-07",
       "dte_next_week": 13,
@@ -207,6 +207,35 @@
         "high": 40,
         "samples": 59,
         "median": 35.1
+      }
+    },
+    {
+      "ticker": "CSCO",
+      "price": 114.17,
+      "change": 1.25,
+      "volume": 19128300,
+      "expiry": "2026-07-31",
+      "dte": 6,
+      "pcr_vol": 0.39,
+      "pcr_oi": 0.6,
+      "gex": 1.32,
+      "gex_regime": "POSITIVE",
+      "call_premium": 0.76,
+      "put_premium": 0.22,
+      "unusual": false,
+      "score": 4,
+      "direction": "BULLISH",
+      "call_vol": 4389,
+      "put_vol": 1728,
+      "expiry_next_week": "2026-08-07",
+      "dte_next_week": 13,
+      "score_next_week": 2,
+      "direction_next_week": "BEARISH",
+      "recovery_rsi": {
+        "low": 35,
+        "high": 40,
+        "samples": 76,
+        "median": 37.6
       }
     },
     {
@@ -671,12 +700,6 @@
       "score_next_week": 4,
       "direction_next_week": "BEARISH",
       "recovery_rsi": null
-    },
-    {
-      "ticker": "CSCO",
-      "error": "No price",
-      "score": 0,
-      "direction": "NEUTRAL"
     },
     {
       "ticker": "PANW",
