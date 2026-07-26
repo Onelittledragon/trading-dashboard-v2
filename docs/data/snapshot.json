@@ -1,15 +1,38 @@
 {
-  "timestamp": "2026-07-26T03:48:57.266647+00:00",
+  "timestamp": "2026-07-26T06:26:12.067691+00:00",
   "date": "Sunday, July 26 2026",
   "market_status": "CLOSED",
-  "market_bias": "RANGE",
-  "bias_desc": "Positive GEX + low drift \u2014 fade moves, trade the range",
-  "bias_color": "yellow",
+  "market_bias": "NEUTRAL",
+  "bias_desc": "Mixed signals \u2014 wait for clarity, reduce size",
+  "bias_color": "gray",
   "spy": {
     "ticker": "SPY",
-    "error": "No price",
-    "score": 0,
-    "direction": "NEUTRAL"
+    "price": 738.93,
+    "change": 0.1,
+    "volume": 44725600,
+    "expiry": "2026-07-27",
+    "dte": 1,
+    "pcr_vol": 1.17,
+    "pcr_oi": 0.91,
+    "gex": -33.42,
+    "gex_regime": "NEGATIVE",
+    "call_premium": 87.88,
+    "put_premium": 185.91,
+    "unusual": true,
+    "score": 3,
+    "direction": "BEARISH",
+    "call_vol": 810496,
+    "put_vol": 951150,
+    "expiry_next_week": "2026-08-03",
+    "dte_next_week": 8,
+    "score_next_week": 3,
+    "direction_next_week": "BULLISH",
+    "recovery_rsi": {
+      "low": 35,
+      "high": 40,
+      "samples": 53,
+      "median": 34.9
+    }
   },
   "tickers": [
     {
@@ -129,32 +152,32 @@
       }
     },
     {
-      "ticker": "GOOGL",
-      "price": 319.74,
-      "change": 0.65,
-      "volume": 31740600,
-      "expiry": "2026-07-27",
-      "dte": 1,
-      "pcr_vol": 0.34,
-      "pcr_oi": 0.26,
-      "gex": 0.42,
+      "ticker": "CRM",
+      "price": 163.66,
+      "change": 4.29,
+      "volume": 10896300,
+      "expiry": "2026-07-31",
+      "dte": 5,
+      "pcr_vol": 0.43,
+      "pcr_oi": 0.63,
+      "gex": 1.55,
       "gex_regime": "POSITIVE",
-      "call_premium": 4.98,
-      "put_premium": 16.13,
+      "call_premium": 2.37,
+      "put_premium": 1.01,
       "unusual": true,
       "score": 5,
       "direction": "BULLISH",
-      "call_vol": 49660,
-      "put_vol": 16694,
-      "expiry_next_week": "2026-08-03",
-      "dte_next_week": 8,
-      "score_next_week": 5,
+      "call_vol": 9052,
+      "put_vol": 3864,
+      "expiry_next_week": "2026-08-07",
+      "dte_next_week": 12,
+      "score_next_week": 3,
       "direction_next_week": "BULLISH",
       "recovery_rsi": {
-        "low": 35,
-        "high": 40,
-        "samples": 59,
-        "median": 35.1
+        "low": 40,
+        "high": 45,
+        "samples": 55,
+        "median": 35.3
       }
     },
     {
@@ -299,7 +322,7 @@
         "low": 40,
         "high": 45,
         "samples": 61,
-        "median": 35.6
+        "median": 35.5
       }
     },
     {
@@ -387,6 +410,122 @@
         "high": 40,
         "samples": 68,
         "median": 34.8
+      }
+    },
+    {
+      "ticker": "META",
+      "price": 595.19,
+      "change": -1.8,
+      "volume": 11474900,
+      "expiry": "2026-07-27",
+      "dte": 1,
+      "pcr_vol": 0.25,
+      "pcr_oi": 0.69,
+      "gex": -4.07,
+      "gex_regime": "NEGATIVE",
+      "call_premium": 13.0,
+      "put_premium": 11.06,
+      "unusual": true,
+      "score": 3,
+      "direction": "BULLISH",
+      "call_vol": 67422,
+      "put_vol": 16920,
+      "expiry_next_week": "2026-08-03",
+      "dte_next_week": 8,
+      "score_next_week": 5,
+      "direction_next_week": "BULLISH",
+      "recovery_rsi": {
+        "low": 35,
+        "high": 40,
+        "samples": 63,
+        "median": 36.4
+      }
+    },
+    {
+      "ticker": "QQQ",
+      "price": 684.23,
+      "change": -1.12,
+      "volume": 42783600,
+      "expiry": "2026-07-27",
+      "dte": 1,
+      "pcr_vol": 1.19,
+      "pcr_oi": 2.72,
+      "gex": -96.84,
+      "gex_regime": "NEGATIVE",
+      "call_premium": 70.19,
+      "put_premium": 172.14,
+      "unusual": true,
+      "score": 3,
+      "direction": "BEARISH",
+      "call_vol": 413036,
+      "put_vol": 493126,
+      "expiry_next_week": "2026-08-03",
+      "dte_next_week": 8,
+      "score_next_week": 1,
+      "direction_next_week": "NEUTRAL",
+      "recovery_rsi": {
+        "low": 30,
+        "high": 35,
+        "samples": 56,
+        "median": 34.5
+      }
+    },
+    {
+      "ticker": "PLTR",
+      "price": 122.92,
+      "change": -0.36,
+      "volume": 21090100,
+      "expiry": "2026-07-31",
+      "dte": 5,
+      "pcr_vol": 0.75,
+      "pcr_oi": 0.47,
+      "gex": 20.72,
+      "gex_regime": "POSITIVE",
+      "call_premium": 9.63,
+      "put_premium": 6.27,
+      "unusual": true,
+      "score": 3,
+      "direction": "BULLISH",
+      "call_vol": 57425,
+      "put_vol": 43030,
+      "expiry_next_week": "2026-08-07",
+      "dte_next_week": 12,
+      "score_next_week": 2,
+      "direction_next_week": "BULLISH",
+      "recovery_rsi": {
+        "low": 35,
+        "high": 40,
+        "samples": 57,
+        "median": 37.0
+      }
+    },
+    {
+      "ticker": "TQQQ",
+      "price": 64.0,
+      "change": -3.47,
+      "volume": 68929900,
+      "expiry": "2026-07-31",
+      "dte": 5,
+      "pcr_vol": 0.6,
+      "pcr_oi": 1.52,
+      "gex": -17.42,
+      "gex_regime": "NEGATIVE",
+      "call_premium": 13.49,
+      "put_premium": 11.28,
+      "unusual": true,
+      "score": 3,
+      "direction": "BULLISH",
+      "call_vol": 74491,
+      "put_vol": 44629,
+      "expiry_next_week": "2026-08-07",
+      "dte_next_week": 12,
+      "score_next_week": 5,
+      "direction_next_week": "BEARISH",
+      "recovery_rsi": {
+        "low": 30,
+        "high": 35,
+        "samples": 56,
+        "median": 34.3
       }
     },
     {
@@ -534,25 +673,7 @@
       "recovery_rsi": null
     },
     {
-      "ticker": "META",
-      "error": "No price",
-      "score": 0,
-      "direction": "NEUTRAL"
-    },
-    {
-      "ticker": "QQQ",
-      "error": "No price",
-      "score": 0,
-      "direction": "NEUTRAL"
-    },
-    {
-      "ticker": "PLTR",
-      "error": "No price",
-      "score": 0,
-      "direction": "NEUTRAL"
-    },
-    {
-      "ticker": "CRM",
+      "ticker": "GOOGL",
       "error": "No price",
       "score": 0,
       "direction": "NEUTRAL"
@@ -580,12 +701,6 @@
       "score_next_week": 2,
       "direction_next_week": "BULLISH",
       "recovery_rsi": null
-    },
-    {
-      "ticker": "TQQQ",
-      "error": "No price",
-      "score": 0,
-      "direction": "NEUTRAL"
     }
   ],
   "top_picks": [
