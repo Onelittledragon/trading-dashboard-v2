@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-26T12:59:41.049573+00:00",
+  "timestamp": "2026-07-26T14:42:17.928143+00:00",
   "date": "Sunday, July 26 2026",
   "market_status": "CLOSED",
   "market_bias": "NEUTRAL",
@@ -630,30 +630,6 @@
       "recovery_rsi": null
     },
     {
-      "ticker": "AMD",
-      "price": 521.95,
-      "change": -3.29,
-      "volume": 27136700,
-      "expiry": "2026-07-27",
-      "dte": 1,
-      "pcr_vol": 0.87,
-      "pcr_oi": 1.12,
-      "gex": -0.39,
-      "gex_regime": "NEGATIVE",
-      "call_premium": 15.05,
-      "put_premium": 19.54,
-      "unusual": true,
-      "score": 1,
-      "direction": "NEUTRAL",
-      "call_vol": 34981,
-      "put_vol": 30492,
-      "expiry_next_week": "2026-08-03",
-      "dte_next_week": 8,
-      "score_next_week": 3,
-      "direction_next_week": "BULLISH",
-      "recovery_rsi": null
-    },
-    {
       "ticker": "ARM",
       "price": 260.01,
       "change": -8.14,
@@ -700,6 +676,12 @@
       "score_next_week": 4,
       "direction_next_week": "BEARISH",
       "recovery_rsi": null
+    },
+    {
+      "ticker": "AMD",
+      "error": "No price",
+      "score": 0,
+      "direction": "NEUTRAL"
     },
     {
       "ticker": "PANW",
