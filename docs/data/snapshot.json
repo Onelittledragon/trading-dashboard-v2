@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-30T00:14:50.949323+00:00",
+  "timestamp": "2026-07-30T03:35:18.398898+00:00",
   "date": "Thursday, July 30 2026",
   "market_status": "CLOSED",
   "market_bias": "NEUTRAL",
@@ -688,6 +688,30 @@
       "recovery_rsi": null
     },
     {
+      "ticker": "CSCO",
+      "price": 112.48,
+      "change": -2.68,
+      "volume": 22670696,
+      "expiry": "2026-07-31",
+      "dte": 1,
+      "pcr_vol": 0.71,
+      "pcr_oi": 0.57,
+      "gex": -2.02,
+      "gex_regime": "NEGATIVE",
+      "call_premium": 0.39,
+      "put_premium": 0.73,
+      "unusual": false,
+      "score": 1,
+      "direction": "BULLISH",
+      "call_vol": 6876,
+      "put_vol": 4881,
+      "expiry_next_week": "2026-08-07",
+      "dte_next_week": 8,
+      "score_next_week": 2,
+      "direction_next_week": "BULLISH",
+      "recovery_rsi": null
+    },
+    {
       "ticker": "AVGO",
       "price": 370.32,
       "change": -2.78,
@@ -710,12 +734,6 @@
       "score_next_week": 1,
       "direction_next_week": "BULLISH",
       "recovery_rsi": null
-    },
-    {
-      "ticker": "CSCO",
-      "error": "database is locked",
-      "score": 0,
-      "direction": "NEUTRAL"
     }
   ],
   "top_picks": [
