@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-01T10:21:28.752591+00:00",
+  "timestamp": "2026-08-01T11:38:57.258304+00:00",
   "date": "Saturday, August 01 2026",
   "market_status": "CLOSED",
   "market_bias": "NEUTRAL",
@@ -35,35 +35,6 @@
     }
   },
   "tickers": [
-    {
-      "ticker": "NVDA",
-      "price": 200.75,
-      "change": 2.93,
-      "volume": 139659700,
-      "expiry": "2026-08-03",
-      "dte": 2,
-      "pcr_vol": 0.49,
-      "pcr_oi": 0.52,
-      "gex": 38.5,
-      "gex_regime": "POSITIVE",
-      "call_premium": 110.98,
-      "put_premium": 39.11,
-      "unusual": true,
-      "score": 5,
-      "direction": "BULLISH",
-      "call_vol": 371103,
-      "put_vol": 183522,
-      "expiry_next_week": "2026-08-14",
-      "dte_next_week": 13,
-      "score_next_week": 5,
-      "direction_next_week": "BULLISH",
-      "recovery_rsi": {
-        "low": 35,
-        "high": 40,
-        "samples": 55,
-        "median": 34.9
-      }
-    },
     {
       "ticker": "CSCO",
       "price": 115.99,
@@ -724,38 +695,15 @@
       "score_next_week": 3,
       "direction_next_week": "BULLISH",
       "recovery_rsi": null
+    },
+    {
+      "ticker": "NVDA",
+      "error": "database is locked",
+      "score": 0,
+      "direction": "NEUTRAL"
     }
   ],
   "top_picks": [
-    {
-      "ticker": "NVDA",
-      "price": 200.75,
-      "change": 2.93,
-      "volume": 139659700,
-      "expiry": "2026-08-03",
-      "dte": 2,
-      "pcr_vol": 0.49,
-      "pcr_oi": 0.52,
-      "gex": 38.5,
-      "gex_regime": "POSITIVE",
-      "call_premium": 110.98,
-      "put_premium": 39.11,
-      "unusual": true,
-      "score": 5,
-      "direction": "BULLISH",
-      "call_vol": 371103,
-      "put_vol": 183522,
-      "expiry_next_week": "2026-08-14",
-      "dte_next_week": 13,
-      "score_next_week": 5,
-      "direction_next_week": "BULLISH",
-      "recovery_rsi": {
-        "low": 35,
-        "high": 40,
-        "samples": 55,
-        "median": 34.9
-      }
-    },
     {
       "ticker": "CSCO",
       "price": 115.99,
@@ -812,6 +760,35 @@
         "high": 45,
         "samples": 56,
         "median": 35.4
+      }
+    },
+    {
+      "ticker": "AMZN",
+      "price": 271.58,
+      "change": 15.32,
+      "volume": 128881300,
+      "expiry": "2026-08-03",
+      "dte": 2,
+      "pcr_vol": 0.35,
+      "pcr_oi": 0.76,
+      "gex": 13.18,
+      "gex_regime": "POSITIVE",
+      "call_premium": 116.09,
+      "put_premium": 9.63,
+      "unusual": true,
+      "score": 5,
+      "direction": "BULLISH",
+      "call_vol": 157094,
+      "put_vol": 54274,
+      "expiry_next_week": "2026-08-14",
+      "dte_next_week": 13,
+      "score_next_week": 5,
+      "direction_next_week": "BULLISH",
+      "recovery_rsi": {
+        "low": 40,
+        "high": 45,
+        "samples": 57,
+        "median": 37.0
       }
     }
   ]
