@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-14T04:30:09.340070+00:00",
+  "timestamp": "2026-08-14T06:02:32.040922+00:00",
   "date": "Friday, August 14 2026",
   "market_status": "CLOSED",
   "market_bias": "TREND_UP",
@@ -25,7 +25,7 @@
     "put_vol": 815939,
     "expiry_next_week": "2026-08-21",
     "dte_next_week": 7,
-    "score_next_week": 4,
+    "score_next_week": 3,
     "direction_next_week": "BEARISH",
     "recovery_rsi": null
   },
@@ -60,35 +60,6 @@
       }
     },
     {
-      "ticker": "SNDK",
-      "price": 1528.11,
-      "change": 13.67,
-      "volume": 21829200,
-      "expiry": "2026-08-14",
-      "dte": 0,
-      "pcr_vol": 0.53,
-      "pcr_oi": 1.0,
-      "gex": -0.08,
-      "gex_regime": "NEGATIVE",
-      "call_premium": 654.64,
-      "put_premium": 138.14,
-      "unusual": true,
-      "score": 5,
-      "direction": "BULLISH",
-      "call_vol": 178148,
-      "put_vol": 94584,
-      "expiry_next_week": "2026-08-21",
-      "dte_next_week": 7,
-      "score_next_week": 4,
-      "direction_next_week": "BULLISH",
-      "recovery_rsi": {
-        "low": 35,
-        "high": 40,
-        "samples": 68,
-        "median": 37.7
-      }
-    },
-    {
       "ticker": "TSLA",
       "price": 339.96,
       "change": 3.8,
@@ -108,42 +79,13 @@
       "put_vol": 480502,
       "expiry_next_week": "2026-08-21",
       "dte_next_week": 7,
-      "score_next_week": 4,
+      "score_next_week": 5,
       "direction_next_week": "BULLISH",
       "recovery_rsi": {
         "low": 40,
         "high": 45,
         "samples": 63,
         "median": 38.0
-      }
-    },
-    {
-      "ticker": "AMZN",
-      "price": 265.13,
-      "change": -0.8,
-      "volume": 32106400,
-      "expiry": "2026-08-14",
-      "dte": 0,
-      "pcr_vol": 0.48,
-      "pcr_oi": 0.53,
-      "gex": -17.26,
-      "gex_regime": "NEGATIVE",
-      "call_premium": 95.33,
-      "put_premium": 43.94,
-      "unusual": true,
-      "score": 4,
-      "direction": "BULLISH",
-      "call_vol": 202102,
-      "put_vol": 96046,
-      "expiry_next_week": "2026-08-21",
-      "dte_next_week": 7,
-      "score_next_week": 4,
-      "direction_next_week": "BULLISH",
-      "recovery_rsi": {
-        "low": 35,
-        "high": 40,
-        "samples": 63,
-        "median": 34.1
       }
     },
     {
@@ -263,23 +205,23 @@
       }
     },
     {
-      "ticker": "NVDA",
-      "price": 225.3,
-      "change": 0.54,
-      "volume": 98607900,
+      "ticker": "SNDK",
+      "price": 1528.11,
+      "change": 13.67,
+      "volume": 21829200,
       "expiry": "2026-08-14",
       "dte": 0,
-      "pcr_vol": 0.46,
+      "pcr_vol": 0.53,
       "pcr_oi": 1.0,
       "gex": 0.0,
       "gex_regime": "NEGATIVE",
-      "call_premium": 213.94,
-      "put_premium": 82.7,
+      "call_premium": 655.74,
+      "put_premium": 138.18,
       "unusual": false,
-      "score": 3,
+      "score": 4,
       "direction": "BULLISH",
-      "call_vol": 932627,
-      "put_vol": 430379,
+      "call_vol": 178148,
+      "put_vol": 94584,
       "expiry_next_week": "2026-08-21",
       "dte_next_week": 7,
       "score_next_week": 4,
@@ -287,8 +229,8 @@
       "recovery_rsi": {
         "low": 35,
         "high": 40,
-        "samples": 59,
-        "median": 36.8
+        "samples": 68,
+        "median": 37.7
       }
     },
     {
@@ -347,6 +289,35 @@
         "high": 40,
         "samples": 60,
         "median": 35.6
+      }
+    },
+    {
+      "ticker": "AMZN",
+      "price": 265.13,
+      "change": -0.8,
+      "volume": 32106400,
+      "expiry": "2026-08-14",
+      "dte": 0,
+      "pcr_vol": 0.48,
+      "pcr_oi": 1.0,
+      "gex": 0.0,
+      "gex_regime": "NEGATIVE",
+      "call_premium": 95.33,
+      "put_premium": 43.94,
+      "unusual": false,
+      "score": 3,
+      "direction": "BULLISH",
+      "call_vol": 202102,
+      "put_vol": 96046,
+      "expiry_next_week": "2026-08-21",
+      "dte_next_week": 7,
+      "score_next_week": 3,
+      "direction_next_week": "BULLISH",
+      "recovery_rsi": {
+        "low": 35,
+        "high": 40,
+        "samples": 63,
+        "median": 34.1
       }
     },
     {
@@ -432,8 +403,8 @@
       "recovery_rsi": {
         "low": 30,
         "high": 35,
-        "samples": 65,
-        "median": 35.9
+        "samples": 64,
+        "median": 35.8
       }
     },
     {
@@ -448,7 +419,7 @@
       "gex": 0.0,
       "gex_regime": "NEGATIVE",
       "call_premium": 27.29,
-      "put_premium": 3.05,
+      "put_premium": 3.06,
       "unusual": false,
       "score": 3,
       "direction": "BULLISH",
@@ -485,7 +456,7 @@
       "put_vol": 4399,
       "expiry_next_week": "2026-08-21",
       "dte_next_week": 7,
-      "score_next_week": 2,
+      "score_next_week": 3,
       "direction_next_week": "BEARISH",
       "recovery_rsi": {
         "low": 40,
@@ -543,7 +514,7 @@
       "put_vol": 17249,
       "expiry_next_week": "2026-08-21",
       "dte_next_week": 7,
-      "score_next_week": 2,
+      "score_next_week": 1,
       "direction_next_week": "BULLISH",
       "recovery_rsi": {
         "low": 35,
@@ -625,7 +596,7 @@
       "put_vol": 70349,
       "expiry_next_week": "2026-08-21",
       "dte_next_week": 7,
-      "score_next_week": 3,
+      "score_next_week": 2,
       "direction_next_week": "BULLISH",
       "recovery_rsi": null
     },
@@ -673,7 +644,7 @@
       "put_vol": 251334,
       "expiry_next_week": "2026-08-21",
       "dte_next_week": 7,
-      "score_next_week": 4,
+      "score_next_week": 3,
       "direction_next_week": "BULLISH",
       "recovery_rsi": null
     },
@@ -721,9 +692,15 @@
       "put_vol": 595288,
       "expiry_next_week": "2026-08-21",
       "dte_next_week": 7,
-      "score_next_week": 2,
+      "score_next_week": 3,
       "direction_next_week": "BULLISH",
       "recovery_rsi": null
+    },
+    {
+      "ticker": "NVDA",
+      "error": "database is locked",
+      "score": 0,
+      "direction": "NEUTRAL"
     }
   ],
   "top_picks": [
@@ -757,35 +734,6 @@
       }
     },
     {
-      "ticker": "SNDK",
-      "price": 1528.11,
-      "change": 13.67,
-      "volume": 21829200,
-      "expiry": "2026-08-14",
-      "dte": 0,
-      "pcr_vol": 0.53,
-      "pcr_oi": 1.0,
-      "gex": -0.08,
-      "gex_regime": "NEGATIVE",
-      "call_premium": 654.64,
-      "put_premium": 138.14,
-      "unusual": true,
-      "score": 5,
-      "direction": "BULLISH",
-      "call_vol": 178148,
-      "put_vol": 94584,
-      "expiry_next_week": "2026-08-21",
-      "dte_next_week": 7,
-      "score_next_week": 4,
-      "direction_next_week": "BULLISH",
-      "recovery_rsi": {
-        "low": 35,
-        "high": 40,
-        "samples": 68,
-        "median": 37.7
-      }
-    },
-    {
       "ticker": "TSLA",
       "price": 339.96,
       "change": 3.8,
@@ -805,13 +753,42 @@
       "put_vol": 480502,
       "expiry_next_week": "2026-08-21",
       "dte_next_week": 7,
-      "score_next_week": 4,
+      "score_next_week": 5,
       "direction_next_week": "BULLISH",
       "recovery_rsi": {
         "low": 40,
         "high": 45,
         "samples": 63,
         "median": 38.0
+      }
+    },
+    {
+      "ticker": "OKLO",
+      "price": 46.45,
+      "change": 2.92,
+      "volume": 9144800,
+      "expiry": "2026-08-14",
+      "dte": 0,
+      "pcr_vol": 0.36,
+      "pcr_oi": 1.0,
+      "gex": 0.0,
+      "gex_regime": "NEGATIVE",
+      "call_premium": 2.47,
+      "put_premium": 0.9,
+      "unusual": false,
+      "score": 4,
+      "direction": "BULLISH",
+      "call_vol": 14712,
+      "put_vol": 5228,
+      "expiry_next_week": "2026-08-21",
+      "dte_next_week": 7,
+      "score_next_week": 1,
+      "direction_next_week": "BEARISH",
+      "recovery_rsi": {
+        "low": 35,
+        "high": 40,
+        "samples": 56,
+        "median": 36.5
       }
     }
   ]
