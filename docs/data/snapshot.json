@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-14T06:02:32.040922+00:00",
+  "timestamp": "2026-08-14T07:45:59.166445+00:00",
   "date": "Friday, August 14 2026",
   "market_status": "CLOSED",
   "market_bias": "TREND_UP",
@@ -234,6 +234,35 @@
       }
     },
     {
+      "ticker": "NVDA",
+      "price": 225.3,
+      "change": 0.54,
+      "volume": 98607900,
+      "expiry": "2026-08-14",
+      "dte": 0,
+      "pcr_vol": 0.46,
+      "pcr_oi": 1.0,
+      "gex": 0.0,
+      "gex_regime": "NEGATIVE",
+      "call_premium": 213.94,
+      "put_premium": 82.7,
+      "unusual": false,
+      "score": 3,
+      "direction": "BULLISH",
+      "call_vol": 932627,
+      "put_vol": 430379,
+      "expiry_next_week": "2026-08-21",
+      "dte_next_week": 7,
+      "score_next_week": 4,
+      "direction_next_week": "BULLISH",
+      "recovery_rsi": {
+        "low": 35,
+        "high": 40,
+        "samples": 59,
+        "median": 36.8
+      }
+    },
+    {
       "ticker": "AAPL",
       "price": 305.26,
       "change": 1.0,
@@ -403,8 +432,8 @@
       "recovery_rsi": {
         "low": 30,
         "high": 35,
-        "samples": 64,
-        "median": 35.8
+        "samples": 65,
+        "median": 35.9
       }
     },
     {
@@ -695,12 +724,6 @@
       "score_next_week": 3,
       "direction_next_week": "BULLISH",
       "recovery_rsi": null
-    },
-    {
-      "ticker": "NVDA",
-      "error": "database is locked",
-      "score": 0,
-      "direction": "NEUTRAL"
     }
   ],
   "top_picks": [
