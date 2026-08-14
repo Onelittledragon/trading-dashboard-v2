@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-14T23:23:08.399205+00:00",
+  "timestamp": "2026-08-14T23:45:41.880525+00:00",
   "date": "Friday, August 14 2026",
   "market_status": "CLOSED",
   "market_bias": "NEUTRAL",
@@ -150,7 +150,7 @@
       "ticker": "CRWV",
       "price": 105.26,
       "change": -0.97,
-      "volume": 32913050,
+      "volume": 32929827,
       "expiry": "2026-08-14",
       "dte": 0,
       "pcr_vol": 0.26,
@@ -353,7 +353,7 @@
       "ticker": "META",
       "price": 589.85,
       "change": -0.86,
-      "volume": 8401479,
+      "volume": 8412405,
       "expiry": "2026-08-14",
       "dte": 0,
       "pcr_vol": 0.54,
@@ -492,6 +492,35 @@
         "high": 40,
         "samples": 59,
         "median": 36.3
+      }
+    },
+    {
+      "ticker": "RKLB",
+      "price": 80.25,
+      "change": 0.19,
+      "volume": 13815360,
+      "expiry": "2026-08-14",
+      "dte": 0,
+      "pcr_vol": 0.36,
+      "pcr_oi": 0.63,
+      "gex": 24.08,
+      "gex_regime": "POSITIVE",
+      "call_premium": 2.76,
+      "put_premium": 1.58,
+      "unusual": false,
+      "score": 3,
+      "direction": "BULLISH",
+      "call_vol": 39871,
+      "put_vol": 14408,
+      "expiry_next_week": "2026-08-21",
+      "dte_next_week": 7,
+      "score_next_week": 1,
+      "direction_next_week": "BEARISH",
+      "recovery_rsi": {
+        "low": 30,
+        "high": 35,
+        "samples": 66,
+        "median": 36.4
       }
     },
     {
@@ -705,12 +734,6 @@
       "score_next_week": 3,
       "direction_next_week": "BULLISH",
       "recovery_rsi": null
-    },
-    {
-      "ticker": "RKLB",
-      "error": "database is locked",
-      "score": 0,
-      "direction": "NEUTRAL"
     }
   ],
   "top_picks": [
