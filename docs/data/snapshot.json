@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-18T21:56:54.564531+00:00",
+  "timestamp": "2026-08-18T22:30:15.756941+00:00",
   "date": "Tuesday, August 18 2026",
   "market_status": "CLOSED",
   "market_bias": "TREND_DOWN",
@@ -39,7 +39,7 @@
       "ticker": "AAPL",
       "price": 310.03,
       "change": 1.45,
-      "volume": 46601840,
+      "volume": 46451172,
       "expiry": "2026-08-19",
       "dte": 1,
       "pcr_vol": 0.41,
@@ -263,7 +263,7 @@
       "recovery_rsi": {
         "low": 30,
         "high": 35,
-        "samples": 61,
+        "samples": 62,
         "median": 36.8
       }
     },
@@ -706,7 +706,7 @@
       "ticker": "AAPL",
       "price": 310.03,
       "change": 1.45,
-      "volume": 46601840,
+      "volume": 46451172,
       "expiry": "2026-08-19",
       "dte": 1,
       "pcr_vol": 0.41,
