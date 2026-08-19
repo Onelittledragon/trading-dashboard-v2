@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-19T23:26:45.296847+00:00",
+  "timestamp": "2026-08-19T23:49:01.826750+00:00",
   "date": "Wednesday, August 19 2026",
   "market_status": "CLOSED",
   "market_bias": "RANGE",
@@ -34,7 +34,7 @@
       "ticker": "TSLA",
       "price": 351.12,
       "change": 4.23,
-      "volume": 35322838,
+      "volume": 35316918,
       "expiry": "2026-08-19",
       "dte": 0,
       "pcr_vol": 0.76,
@@ -171,15 +171,15 @@
       "recovery_rsi": {
         "low": 45,
         "high": 50,
-        "samples": 55,
-        "median": 38.4
+        "samples": 56,
+        "median": 38.5
       }
     },
     {
       "ticker": "PLTR",
       "price": 175.19,
       "change": 2.13,
-      "volume": 35885884,
+      "volume": 35885885,
       "expiry": "2026-08-21",
       "dte": 2,
       "pcr_vol": 0.66,
@@ -187,12 +187,12 @@
       "gex": 45.3,
       "gex_regime": "POSITIVE",
       "call_premium": 113.24,
-      "put_premium": 12.15,
+      "put_premium": 10.55,
       "unusual": true,
       "score": 5,
       "direction": "BULLISH",
       "call_vol": 183160,
-      "put_vol": 121368,
+      "put_vol": 121281,
       "expiry_next_week": "2026-08-28",
       "dte_next_week": 9,
       "score_next_week": 5,
@@ -361,12 +361,12 @@
       "gex": 29.64,
       "gex_regime": "POSITIVE",
       "call_premium": 9.04,
-      "put_premium": 4.83,
+      "put_premium": 4.75,
       "unusual": false,
       "score": 4,
       "direction": "BULLISH",
       "call_vol": 20893,
-      "put_vol": 12077,
+      "put_vol": 12070,
       "expiry_next_week": "2026-08-28",
       "dte_next_week": 9,
       "score_next_week": 3,
@@ -556,7 +556,7 @@
       "ticker": "MU",
       "price": 937.1,
       "change": -0.39,
-      "volume": 25693662,
+      "volume": 25693590,
       "expiry": "2026-08-19",
       "dte": 0,
       "pcr_vol": 0.69,
@@ -580,6 +580,30 @@
         "samples": 58,
         "median": 36.4
       }
+    },
+    {
+      "ticker": "RKLB",
+      "price": 75.84,
+      "change": -4.19,
+      "volume": 15829018,
+      "expiry": "2026-08-21",
+      "dte": 2,
+      "pcr_vol": 0.46,
+      "pcr_oi": 0.53,
+      "gex": -3.4,
+      "gex_regime": "NEGATIVE",
+      "call_premium": 3.23,
+      "put_premium": 3.07,
+      "unusual": false,
+      "score": 2,
+      "direction": "BULLISH",
+      "call_vol": 24922,
+      "put_vol": 11484,
+      "expiry_next_week": "2026-08-28",
+      "dte_next_week": 9,
+      "score_next_week": 3,
+      "direction_next_week": "BULLISH",
+      "recovery_rsi": null
     },
     {
       "ticker": "CSCO",
@@ -700,12 +724,6 @@
       "score_next_week": 5,
       "direction_next_week": "BULLISH",
       "recovery_rsi": null
-    },
-    {
-      "ticker": "RKLB",
-      "error": "database is locked",
-      "score": 0,
-      "direction": "NEUTRAL"
     }
   ],
   "top_picks": [
@@ -713,7 +731,7 @@
       "ticker": "TSLA",
       "price": 351.12,
       "change": 4.23,
-      "volume": 35322838,
+      "volume": 35316918,
       "expiry": "2026-08-19",
       "dte": 0,
       "pcr_vol": 0.76,
