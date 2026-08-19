@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-19T12:02:10.890824+00:00",
+  "timestamp": "2026-08-19T13:04:45.609045+00:00",
   "date": "Wednesday, August 19 2026",
   "market_status": "OPEN",
   "market_bias": "BEARISH",
@@ -294,35 +294,6 @@
         "high": 40,
         "samples": 62,
         "median": 36.5
-      }
-    },
-    {
-      "ticker": "CSCO",
-      "price": 111.61,
-      "change": -1.14,
-      "volume": 20045900,
-      "expiry": "2026-08-21",
-      "dte": 2,
-      "pcr_vol": 0.31,
-      "pcr_oi": 0.44,
-      "gex": 1.86,
-      "gex_regime": "POSITIVE",
-      "call_premium": 1.39,
-      "put_premium": 1.52,
-      "unusual": false,
-      "score": 3,
-      "direction": "BULLISH",
-      "call_vol": 20059,
-      "put_vol": 6273,
-      "expiry_next_week": "2026-08-28",
-      "dte_next_week": 9,
-      "score_next_week": 4,
-      "direction_next_week": "BULLISH",
-      "recovery_rsi": {
-        "low": 30,
-        "high": 35,
-        "samples": 53,
-        "median": 33.7
       }
     },
     {
@@ -704,6 +675,12 @@
       "score_next_week": 0,
       "direction_next_week": "NEUTRAL",
       "recovery_rsi": null
+    },
+    {
+      "ticker": "CSCO",
+      "error": "database is locked",
+      "score": 0,
+      "direction": "NEUTRAL"
     }
   ],
   "top_picks": [
