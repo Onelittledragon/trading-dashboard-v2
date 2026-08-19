@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-19T21:58:29.422357+00:00",
+  "timestamp": "2026-08-19T22:33:12.528292+00:00",
   "date": "Wednesday, August 19 2026",
   "market_status": "CLOSED",
   "market_bias": "RANGE",
@@ -606,6 +606,30 @@
       "recovery_rsi": null
     },
     {
+      "ticker": "CSCO",
+      "price": 110.55,
+      "change": -0.95,
+      "volume": 17957530,
+      "expiry": "2026-08-21",
+      "dte": 2,
+      "pcr_vol": 0.29,
+      "pcr_oi": 0.44,
+      "gex": -12.85,
+      "gex_regime": "NEGATIVE",
+      "call_premium": 0.93,
+      "put_premium": 1.43,
+      "unusual": false,
+      "score": 2,
+      "direction": "BULLISH",
+      "call_vol": 14566,
+      "put_vol": 4248,
+      "expiry_next_week": "2026-08-28",
+      "dte_next_week": 9,
+      "score_next_week": 3,
+      "direction_next_week": "BULLISH",
+      "recovery_rsi": null
+    },
+    {
       "ticker": "CRWV",
       "price": 90.87,
       "change": -2.47,
@@ -700,12 +724,6 @@
       "score_next_week": 5,
       "direction_next_week": "BULLISH",
       "recovery_rsi": null
-    },
-    {
-      "ticker": "CSCO",
-      "error": "database is locked",
-      "score": 0,
-      "direction": "NEUTRAL"
     }
   ],
   "top_picks": [
