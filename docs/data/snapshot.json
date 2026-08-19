@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-19T11:42:08.020957+00:00",
+  "timestamp": "2026-08-19T12:02:10.890824+00:00",
   "date": "Wednesday, August 19 2026",
   "market_status": "OPEN",
   "market_bias": "BEARISH",
@@ -569,7 +569,7 @@
       "expiry": "2026-08-19",
       "dte": 0,
       "pcr_vol": 0.81,
-      "pcr_oi": 0.73,
+      "pcr_oi": 0.82,
       "gex": -0.07,
       "gex_regime": "NEGATIVE",
       "call_premium": 127.88,
