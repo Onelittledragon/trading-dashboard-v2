@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-19T21:36:10.843532+00:00",
+  "timestamp": "2026-08-19T21:58:29.422357+00:00",
   "date": "Wednesday, August 19 2026",
   "market_status": "CLOSED",
   "market_bias": "RANGE",
@@ -34,7 +34,7 @@
       "ticker": "TSLA",
       "price": 351.12,
       "change": 4.23,
-      "volume": 35316918,
+      "volume": 35322838,
       "expiry": "2026-08-19",
       "dte": 0,
       "pcr_vol": 0.76,
@@ -171,15 +171,15 @@
       "recovery_rsi": {
         "low": 45,
         "high": 50,
-        "samples": 56,
-        "median": 38.5
+        "samples": 55,
+        "median": 38.4
       }
     },
     {
       "ticker": "PLTR",
       "price": 175.19,
       "change": 2.13,
-      "volume": 35885885,
+      "volume": 35885884,
       "expiry": "2026-08-21",
       "dte": 2,
       "pcr_vol": 0.66,
@@ -187,12 +187,12 @@
       "gex": 45.3,
       "gex_regime": "POSITIVE",
       "call_premium": 113.24,
-      "put_premium": 10.55,
+      "put_premium": 12.15,
       "unusual": true,
       "score": 5,
       "direction": "BULLISH",
       "call_vol": 183160,
-      "put_vol": 121281,
+      "put_vol": 121368,
       "expiry_next_week": "2026-08-28",
       "dte_next_week": 9,
       "score_next_week": 5,
@@ -361,12 +361,12 @@
       "gex": 29.64,
       "gex_regime": "POSITIVE",
       "call_premium": 9.04,
-      "put_premium": 4.75,
+      "put_premium": 4.83,
       "unusual": false,
       "score": 4,
       "direction": "BULLISH",
       "call_vol": 20893,
-      "put_vol": 12070,
+      "put_vol": 12077,
       "expiry_next_week": "2026-08-28",
       "dte_next_week": 9,
       "score_next_week": 3,
@@ -606,30 +606,6 @@
       "recovery_rsi": null
     },
     {
-      "ticker": "CSCO",
-      "price": 110.55,
-      "change": -0.95,
-      "volume": 17957530,
-      "expiry": "2026-08-21",
-      "dte": 2,
-      "pcr_vol": 0.29,
-      "pcr_oi": 0.44,
-      "gex": -12.85,
-      "gex_regime": "NEGATIVE",
-      "call_premium": 0.93,
-      "put_premium": 1.43,
-      "unusual": false,
-      "score": 2,
-      "direction": "BULLISH",
-      "call_vol": 14566,
-      "put_vol": 4248,
-      "expiry_next_week": "2026-08-28",
-      "dte_next_week": 9,
-      "score_next_week": 3,
-      "direction_next_week": "BULLISH",
-      "recovery_rsi": null
-    },
-    {
       "ticker": "CRWV",
       "price": 90.87,
       "change": -2.47,
@@ -724,6 +700,12 @@
       "score_next_week": 5,
       "direction_next_week": "BULLISH",
       "recovery_rsi": null
+    },
+    {
+      "ticker": "CSCO",
+      "error": "database is locked",
+      "score": 0,
+      "direction": "NEUTRAL"
     }
   ],
   "top_picks": [
@@ -731,7 +713,7 @@
       "ticker": "TSLA",
       "price": 351.12,
       "change": 4.23,
-      "volume": 35316918,
+      "volume": 35322838,
       "expiry": "2026-08-19",
       "dte": 0,
       "pcr_vol": 0.76,
