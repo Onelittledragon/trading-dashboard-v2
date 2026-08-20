@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-20T05:50:24.951898+00:00",
+  "timestamp": "2026-08-20T06:24:20.905442+00:00",
   "date": "Thursday, August 20 2026",
   "market_status": "CLOSED",
   "market_bias": "NEUTRAL",
@@ -466,30 +466,6 @@
       }
     },
     {
-      "ticker": "RKLB",
-      "price": 75.84,
-      "change": -4.19,
-      "volume": 16345600,
-      "expiry": "2026-08-21",
-      "dte": 1,
-      "pcr_vol": 0.46,
-      "pcr_oi": 1.0,
-      "gex": 0.0,
-      "gex_regime": "NEGATIVE",
-      "call_premium": 3.23,
-      "put_premium": 3.07,
-      "unusual": false,
-      "score": 2,
-      "direction": "BULLISH",
-      "call_vol": 24922,
-      "put_vol": 11484,
-      "expiry_next_week": "2026-08-28",
-      "dte_next_week": 8,
-      "score_next_week": 2,
-      "direction_next_week": "BULLISH",
-      "recovery_rsi": null
-    },
-    {
       "ticker": "CSCO",
       "price": 110.55,
       "change": -0.95,
@@ -680,6 +656,12 @@
       "score_next_week": 2,
       "direction_next_week": "BULLISH",
       "recovery_rsi": null
+    },
+    {
+      "ticker": "RKLB",
+      "error": "database is locked",
+      "score": 0,
+      "direction": "NEUTRAL"
     },
     {
       "ticker": "QQQ",
