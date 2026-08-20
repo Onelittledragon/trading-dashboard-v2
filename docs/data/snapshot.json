@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-20T22:38:03.156235+00:00",
+  "timestamp": "2026-08-20T23:01:59.084563+00:00",
   "date": "Thursday, August 20 2026",
   "market_status": "CLOSED",
   "market_bias": "TREND_DOWN",
@@ -87,10 +87,10 @@
       "score_next_week": 5,
       "direction_next_week": "BULLISH",
       "recovery_rsi": {
-        "low": 45,
-        "high": 50,
-        "samples": 52,
-        "median": 38.3
+        "low": 35,
+        "high": 40,
+        "samples": 51,
+        "median": 38.1
       }
     },
     {
@@ -337,12 +337,12 @@
       "gex": 69.68,
       "gex_regime": "POSITIVE",
       "call_premium": 189.19,
-      "put_premium": 899.87,
+      "put_premium": 900.17,
       "unusual": true,
       "score": 3,
       "direction": "BEARISH",
       "call_vol": 613544,
-      "put_vol": 721305,
+      "put_vol": 721312,
       "expiry_next_week": "2026-08-28",
       "dte_next_week": 8,
       "score_next_week": 3,
@@ -453,12 +453,12 @@
       "gex": 23.62,
       "gex_regime": "POSITIVE",
       "call_premium": 32.72,
-      "put_premium": 10.81,
+      "put_premium": 12.41,
       "unusual": false,
       "score": 3,
       "direction": "BULLISH",
       "call_vol": 112114,
-      "put_vol": 88930,
+      "put_vol": 89017,
       "expiry_next_week": "2026-08-28",
       "dte_next_week": 8,
       "score_next_week": 3,
@@ -703,12 +703,12 @@
       "gex": 28.82,
       "gex_regime": "POSITIVE",
       "call_premium": 3.9,
-      "put_premium": 6.28,
+      "put_premium": 6.37,
       "unusual": false,
       "score": 0,
       "direction": "NEUTRAL",
       "call_vol": 7436,
-      "put_vol": 6516,
+      "put_vol": 6523,
       "expiry_next_week": "2026-08-28",
       "dte_next_week": 8,
       "score_next_week": 4,
@@ -769,10 +769,10 @@
       "score_next_week": 5,
       "direction_next_week": "BULLISH",
       "recovery_rsi": {
-        "low": 45,
-        "high": 50,
-        "samples": 52,
-        "median": 38.3
+        "low": 35,
+        "high": 40,
+        "samples": 51,
+        "median": 38.1
       }
     },
     {
