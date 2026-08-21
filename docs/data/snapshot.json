@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-21T10:03:19.762020+00:00",
+  "timestamp": "2026-08-21T10:42:40.022692+00:00",
   "date": "Friday, August 21 2026",
   "market_status": "OPEN",
   "market_bias": "TREND_DOWN",
@@ -87,10 +87,10 @@
       "score_next_week": 4,
       "direction_next_week": "BULLISH",
       "recovery_rsi": {
-        "low": 35,
-        "high": 40,
-        "samples": 51,
-        "median": 38.1
+        "low": 45,
+        "high": 50,
+        "samples": 52,
+        "median": 38.3
       }
     },
     {
@@ -275,16 +275,16 @@
       "expiry": "2026-08-21",
       "dte": 0,
       "pcr_vol": 1.18,
-      "pcr_oi": 17.0,
+      "pcr_oi": 19.0,
       "gex": 0.0,
       "gex_regime": "POSITIVE",
       "call_premium": 189.19,
-      "put_premium": 900.17,
+      "put_premium": 899.87,
       "unusual": true,
       "score": 3,
       "direction": "BEARISH",
       "call_vol": 613544,
-      "put_vol": 721312,
+      "put_vol": 721305,
       "expiry_next_week": "2026-08-28",
       "dte_next_week": 7,
       "score_next_week": 1,
@@ -395,12 +395,12 @@
       "gex": 0.0,
       "gex_regime": "NEGATIVE",
       "call_premium": 32.72,
-      "put_premium": 12.41,
+      "put_premium": 10.81,
       "unusual": true,
       "score": 3,
       "direction": "BULLISH",
       "call_vol": 112114,
-      "put_vol": 89017,
+      "put_vol": 88930,
       "expiry_next_week": "2026-08-28",
       "dte_next_week": 7,
       "score_next_week": 2,
@@ -631,12 +631,12 @@
       "gex": 0.0,
       "gex_regime": "NEGATIVE",
       "call_premium": 3.9,
-      "put_premium": 6.37,
+      "put_premium": 6.28,
       "unusual": true,
       "score": 1,
       "direction": "NEUTRAL",
       "call_vol": 7436,
-      "put_vol": 6523,
+      "put_vol": 6516,
       "expiry_next_week": "2026-08-28",
       "dte_next_week": 7,
       "score_next_week": 3,
@@ -769,10 +769,10 @@
       "score_next_week": 4,
       "direction_next_week": "BULLISH",
       "recovery_rsi": {
-        "low": 35,
-        "high": 40,
-        "samples": 51,
-        "median": 38.1
+        "low": 45,
+        "high": 50,
+        "samples": 52,
+        "median": 38.3
       }
     },
     {
