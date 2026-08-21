@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-21T02:50:57.004484+00:00",
+  "timestamp": "2026-08-21T03:41:46.583120+00:00",
   "date": "Friday, August 21 2026",
   "market_status": "CLOSED",
   "market_bias": "TREND_DOWN",
@@ -323,6 +323,35 @@
         "high": 35,
         "samples": 60,
         "median": 35.6
+      }
+    },
+    {
+      "ticker": "CSCO",
+      "price": 109.59,
+      "change": -0.87,
+      "volume": 12627206,
+      "expiry": "2026-08-21",
+      "dte": 0,
+      "pcr_vol": 1.45,
+      "pcr_oi": 0.42,
+      "gex": -16.36,
+      "gex_regime": "NEGATIVE",
+      "call_premium": 0.67,
+      "put_premium": 13.52,
+      "unusual": false,
+      "score": 3,
+      "direction": "BEARISH",
+      "call_vol": 11752,
+      "put_vol": 17092,
+      "expiry_next_week": "2026-08-28",
+      "dte_next_week": 7,
+      "score_next_week": 3,
+      "direction_next_week": "BULLISH",
+      "recovery_rsi": {
+        "low": 30,
+        "high": 35,
+        "samples": 55,
+        "median": 34.7
       }
     },
     {
@@ -661,12 +690,6 @@
       "score_next_week": 5,
       "direction_next_week": "BULLISH",
       "recovery_rsi": null
-    },
-    {
-      "ticker": "CSCO",
-      "error": "database is locked",
-      "score": 0,
-      "direction": "NEUTRAL"
     },
     {
       "ticker": "CRM",
