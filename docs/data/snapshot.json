@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-22T04:07:24.833759+00:00",
+  "timestamp": "2026-08-22T04:47:31.504746+00:00",
   "date": "Saturday, August 22 2026",
   "market_status": "CLOSED",
   "market_bias": "NEUTRAL",
@@ -379,35 +379,6 @@
       }
     },
     {
-      "ticker": "CSCO",
-      "price": 111.04,
-      "change": 1.32,
-      "volume": 18393400,
-      "expiry": "2026-08-28",
-      "dte": 6,
-      "pcr_vol": 0.68,
-      "pcr_oi": 0.33,
-      "gex": 3.05,
-      "gex_regime": "POSITIVE",
-      "call_premium": 1.13,
-      "put_premium": 0.89,
-      "unusual": true,
-      "score": 3,
-      "direction": "BULLISH",
-      "call_vol": 9127,
-      "put_vol": 6215,
-      "expiry_next_week": "2026-09-04",
-      "dte_next_week": 13,
-      "score_next_week": 5,
-      "direction_next_week": "BULLISH",
-      "recovery_rsi": {
-        "low": 25,
-        "high": 30,
-        "samples": 56,
-        "median": 34.0
-      }
-    },
-    {
       "ticker": "IREN",
       "price": 41.88,
       "change": -1.69,
@@ -734,6 +705,12 @@
       "score_next_week": 0,
       "direction_next_week": "NEUTRAL",
       "recovery_rsi": null
+    },
+    {
+      "ticker": "CSCO",
+      "error": "database is locked",
+      "score": 0,
+      "direction": "NEUTRAL"
     }
   ],
   "top_picks": [
