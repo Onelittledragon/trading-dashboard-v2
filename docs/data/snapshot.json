@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-22T02:42:14.619608+00:00",
+  "timestamp": "2026-08-22T03:27:14.373241+00:00",
   "date": "Saturday, August 22 2026",
   "market_status": "CLOSED",
   "market_bias": "NEUTRAL",
@@ -84,8 +84,8 @@
       "recovery_rsi": {
         "low": 30,
         "high": 35,
-        "samples": 52,
-        "median": 37.0
+        "samples": 51,
+        "median": 36.8
       }
     },
     {
@@ -99,12 +99,12 @@
       "pcr_oi": 0.91,
       "gex": 13.71,
       "gex_regime": "POSITIVE",
-      "call_premium": 58.56,
+      "call_premium": 58.08,
       "put_premium": 13.19,
       "unusual": true,
       "score": 5,
       "direction": "BULLISH",
-      "call_vol": 168401,
+      "call_vol": 168317,
       "put_vol": 85563,
       "expiry_next_week": "2026-09-04",
       "dte_next_week": 13,
@@ -221,7 +221,7 @@
       "score": 4,
       "direction": "BULLISH",
       "call_vol": 5337,
-      "put_vol": 3667,
+      "put_vol": 3666,
       "expiry_next_week": "2026-09-04",
       "dte_next_week": 13,
       "score_next_week": 4,
@@ -715,7 +715,7 @@
       "ticker": "CRWV",
       "price": 87.85,
       "change": -2.13,
-      "volume": 20720632,
+      "volume": 20725295,
       "expiry": "2026-08-28",
       "dte": 6,
       "pcr_vol": 0.91,
@@ -791,8 +791,8 @@
       "recovery_rsi": {
         "low": 30,
         "high": 35,
-        "samples": 52,
-        "median": 37.0
+        "samples": 51,
+        "median": 36.8
       }
     },
     {
@@ -806,12 +806,12 @@
       "pcr_oi": 0.91,
       "gex": 13.71,
       "gex_regime": "POSITIVE",
-      "call_premium": 58.56,
+      "call_premium": 58.08,
       "put_premium": 13.19,
       "unusual": true,
       "score": 5,
       "direction": "BULLISH",
-      "call_vol": 168401,
+      "call_vol": 168317,
       "put_vol": 85563,
       "expiry_next_week": "2026-09-04",
       "dte_next_week": 13,
