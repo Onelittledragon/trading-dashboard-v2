@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-24T11:46:40.930889+00:00",
+  "timestamp": "2026-08-24T12:17:07.041760+00:00",
   "date": "Monday, August 24 2026",
   "market_status": "OPEN",
   "market_bias": "RANGE",
@@ -55,8 +55,8 @@
       "recovery_rsi": {
         "low": 30,
         "high": 35,
-        "samples": 52,
-        "median": 37.0
+        "samples": 51,
+        "median": 36.8
       }
     },
     {
@@ -70,12 +70,12 @@
       "pcr_oi": 0.8,
       "gex": 430.66,
       "gex_regime": "POSITIVE",
-      "call_premium": 58.66,
+      "call_premium": 58.18,
       "put_premium": 13.22,
       "unusual": true,
       "score": 5,
       "direction": "BULLISH",
-      "call_vol": 170456,
+      "call_vol": 170372,
       "put_vol": 85581,
       "expiry_next_week": "2026-09-04",
       "dte_next_week": 11,
@@ -144,35 +144,6 @@
         "high": 35,
         "samples": 57,
         "median": 36.0
-      }
-    },
-    {
-      "ticker": "NVDA",
-      "price": 214.72,
-      "change": -0.98,
-      "volume": 98545600,
-      "expiry": "2026-08-24",
-      "dte": 0,
-      "pcr_vol": 0.52,
-      "pcr_oi": 0.64,
-      "gex": 14.59,
-      "gex_regime": "POSITIVE",
-      "call_premium": 64.18,
-      "put_premium": 63.76,
-      "unusual": true,
-      "score": 4,
-      "direction": "BULLISH",
-      "call_vol": 324096,
-      "put_vol": 168644,
-      "expiry_next_week": "2026-08-31",
-      "dte_next_week": 7,
-      "score_next_week": 5,
-      "direction_next_week": "BULLISH",
-      "recovery_rsi": {
-        "low": 35,
-        "high": 40,
-        "samples": 59,
-        "median": 35.5
       }
     },
     {
@@ -279,7 +250,7 @@
       "score": 4,
       "direction": "BULLISH",
       "call_vol": 5836,
-      "put_vol": 3861,
+      "put_vol": 3860,
       "expiry_next_week": "2026-09-04",
       "dte_next_week": 11,
       "score_next_week": 5,
@@ -714,6 +685,12 @@
       "score_next_week": 3,
       "direction_next_week": "BULLISH",
       "recovery_rsi": null
+    },
+    {
+      "ticker": "NVDA",
+      "error": "database is locked",
+      "score": 0,
+      "direction": "NEUTRAL"
     }
   ],
   "top_picks": [
@@ -742,8 +719,8 @@
       "recovery_rsi": {
         "low": 30,
         "high": 35,
-        "samples": 52,
-        "median": 37.0
+        "samples": 51,
+        "median": 36.8
       }
     },
     {
@@ -757,12 +734,12 @@
       "pcr_oi": 0.8,
       "gex": 430.66,
       "gex_regime": "POSITIVE",
-      "call_premium": 58.66,
+      "call_premium": 58.18,
       "put_premium": 13.22,
       "unusual": true,
       "score": 5,
       "direction": "BULLISH",
-      "call_vol": 170456,
+      "call_vol": 170372,
       "put_vol": 85581,
       "expiry_next_week": "2026-09-04",
       "dte_next_week": 11,
