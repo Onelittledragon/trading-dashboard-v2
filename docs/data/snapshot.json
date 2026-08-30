@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-30T19:57:18.716979+00:00",
+  "timestamp": "2026-08-30T22:37:52.963171+00:00",
   "date": "Sunday, August 30 2026",
   "market_status": "CLOSED",
   "market_bias": "NEUTRAL",
@@ -21,7 +21,7 @@
     "unusual": true,
     "score": 1,
     "direction": "NEUTRAL",
-    "call_vol": 735430,
+    "call_vol": 735423,
     "put_vol": 777613,
     "expiry_next_week": "2026-09-11",
     "dte_next_week": 12,
@@ -30,35 +30,6 @@
     "recovery_rsi": null
   },
   "tickers": [
-    {
-      "ticker": "NVDA",
-      "price": 217.55,
-      "change": -4.57,
-      "volume": 194586600,
-      "expiry": "2026-08-31",
-      "dte": 1,
-      "pcr_vol": 0.57,
-      "pcr_oi": 0.63,
-      "gex": 13.15,
-      "gex_regime": "POSITIVE",
-      "call_premium": 59.52,
-      "put_premium": 155.41,
-      "unusual": true,
-      "score": 5,
-      "direction": "BULLISH",
-      "call_vol": 662893,
-      "put_vol": 377916,
-      "expiry_next_week": "2026-09-11",
-      "dte_next_week": 12,
-      "score_next_week": 4,
-      "direction_next_week": "BULLISH",
-      "recovery_rsi": {
-        "low": 20,
-        "high": 25,
-        "samples": 53,
-        "median": 33.5
-      }
-    },
     {
       "ticker": "AMZN",
       "price": 266.43,
@@ -404,7 +375,7 @@
         "low": 40,
         "high": 45,
         "samples": 59,
-        "median": 38.2
+        "median": 38.3
       }
     },
     {
@@ -712,6 +683,12 @@
       "recovery_rsi": null
     },
     {
+      "ticker": "NVDA",
+      "error": "database is locked",
+      "score": 0,
+      "direction": "NEUTRAL"
+    },
+    {
       "ticker": "USO",
       "price": 129.7,
       "change": -0.24,
@@ -737,35 +714,6 @@
     }
   ],
   "top_picks": [
-    {
-      "ticker": "NVDA",
-      "price": 217.55,
-      "change": -4.57,
-      "volume": 194586600,
-      "expiry": "2026-08-31",
-      "dte": 1,
-      "pcr_vol": 0.57,
-      "pcr_oi": 0.63,
-      "gex": 13.15,
-      "gex_regime": "POSITIVE",
-      "call_premium": 59.52,
-      "put_premium": 155.41,
-      "unusual": true,
-      "score": 5,
-      "direction": "BULLISH",
-      "call_vol": 662893,
-      "put_vol": 377916,
-      "expiry_next_week": "2026-09-11",
-      "dte_next_week": 12,
-      "score_next_week": 4,
-      "direction_next_week": "BULLISH",
-      "recovery_rsi": {
-        "low": 20,
-        "high": 25,
-        "samples": 53,
-        "median": 33.5
-      }
-    },
     {
       "ticker": "AMZN",
       "price": 266.43,
@@ -822,6 +770,35 @@
         "high": 40,
         "samples": 63,
         "median": 36.4
+      }
+    },
+    {
+      "ticker": "MSFT",
+      "price": 513.53,
+      "change": 1.68,
+      "volume": 29178300,
+      "expiry": "2026-08-31",
+      "dte": 1,
+      "pcr_vol": 0.45,
+      "pcr_oi": 0.68,
+      "gex": 13.06,
+      "gex_regime": "POSITIVE",
+      "call_premium": 15.19,
+      "put_premium": 5.05,
+      "unusual": true,
+      "score": 5,
+      "direction": "BULLISH",
+      "call_vol": 62563,
+      "put_vol": 27970,
+      "expiry_next_week": "2026-09-11",
+      "dte_next_week": 12,
+      "score_next_week": 5,
+      "direction_next_week": "BULLISH",
+      "recovery_rsi": {
+        "low": 40,
+        "high": 45,
+        "samples": 64,
+        "median": 38.3
       }
     }
   ]
