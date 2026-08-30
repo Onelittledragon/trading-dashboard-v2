@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-30T13:02:47.439114+00:00",
+  "timestamp": "2026-08-30T17:24:03.739847+00:00",
   "date": "Sunday, August 30 2026",
   "market_status": "CLOSED",
   "market_bias": "NEUTRAL",
@@ -21,7 +21,7 @@
     "unusual": true,
     "score": 1,
     "direction": "NEUTRAL",
-    "call_vol": 735423,
+    "call_vol": 735430,
     "put_vol": 777613,
     "expiry_next_week": "2026-09-11",
     "dte_next_week": 12,
@@ -56,7 +56,7 @@
         "low": 20,
         "high": 25,
         "samples": 53,
-        "median": 33.4
+        "median": 33.5
       }
     },
     {
@@ -404,7 +404,7 @@
         "low": 40,
         "high": 45,
         "samples": 59,
-        "median": 38.3
+        "median": 38.2
       }
     },
     {
@@ -521,35 +521,6 @@
         "high": 35,
         "samples": 51,
         "median": 36.2
-      }
-    },
-    {
-      "ticker": "RKLB",
-      "price": 64.39,
-      "change": -4.65,
-      "volume": 18496000,
-      "expiry": "2026-09-04",
-      "dte": 5,
-      "pcr_vol": 0.57,
-      "pcr_oi": 0.65,
-      "gex": -2.17,
-      "gex_regime": "NEGATIVE",
-      "call_premium": 1.23,
-      "put_premium": 1.94,
-      "unusual": true,
-      "score": 3,
-      "direction": "BULLISH",
-      "call_vol": 16514,
-      "put_vol": 9331,
-      "expiry_next_week": "2026-09-11",
-      "dte_next_week": 12,
-      "score_next_week": 3,
-      "direction_next_week": "BEARISH",
-      "recovery_rsi": {
-        "low": 35,
-        "high": 40,
-        "samples": 64,
-        "median": 36.9
       }
     },
     {
@@ -712,6 +683,12 @@
       "recovery_rsi": null
     },
     {
+      "ticker": "RKLB",
+      "error": "database is locked",
+      "score": 0,
+      "direction": "NEUTRAL"
+    },
+    {
       "ticker": "USO",
       "price": 129.7,
       "change": -0.24,
@@ -763,7 +740,7 @@
         "low": 20,
         "high": 25,
         "samples": 53,
-        "median": 33.4
+        "median": 33.5
       }
     },
     {
