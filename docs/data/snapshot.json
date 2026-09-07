@@ -1,7 +1,7 @@
 {
-  "timestamp": "2026-09-07T05:54:18.302205+00:00",
+  "timestamp": "2026-09-07T11:39:56.883054+00:00",
   "date": "Monday, September 07 2026",
-  "market_status": "CLOSED",
+  "market_status": "OPEN",
   "market_bias": "TREND_DOWN",
   "bias_desc": "Negative GEX + bearish flow \u2014 follow momentum shorts",
   "bias_color": "red",
@@ -384,35 +384,6 @@
       }
     },
     {
-      "ticker": "RKLB",
-      "price": 64.26,
-      "change": 0.71,
-      "volume": 14867600,
-      "expiry": "2026-09-11",
-      "dte": 4,
-      "pcr_vol": 0.38,
-      "pcr_oi": 0.59,
-      "gex": 0.6,
-      "gex_regime": "POSITIVE",
-      "call_premium": 1.69,
-      "put_premium": 1.13,
-      "unusual": true,
-      "score": 4,
-      "direction": "BULLISH",
-      "call_vol": 18726,
-      "put_vol": 7069,
-      "expiry_next_week": "2026-09-18",
-      "dte_next_week": 11,
-      "score_next_week": 2,
-      "direction_next_week": "BULLISH",
-      "recovery_rsi": {
-        "low": 35,
-        "high": 40,
-        "samples": 64,
-        "median": 38.0
-      }
-    },
-    {
       "ticker": "AAPL",
       "price": 319.97,
       "change": -2.51,
@@ -739,6 +710,12 @@
       "score_next_week": 1,
       "direction_next_week": "BEARISH",
       "recovery_rsi": null
+    },
+    {
+      "ticker": "RKLB",
+      "error": "database is locked",
+      "score": 0,
+      "direction": "NEUTRAL"
     }
   ],
   "top_picks": [
