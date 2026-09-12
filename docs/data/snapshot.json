@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-12T12:56:15.767595+00:00",
+  "timestamp": "2026-09-12T16:07:17.566655+00:00",
   "date": "Saturday, September 12 2026",
   "market_status": "CLOSED",
   "market_bias": "BEARISH",
@@ -205,8 +205,8 @@
       "recovery_rsi": {
         "low": 30,
         "high": 35,
-        "samples": 56,
-        "median": 35.9
+        "samples": 57,
+        "median": 36.0
       }
     },
     {
@@ -511,12 +511,12 @@
       "gex": -7.33,
       "gex_regime": "NEGATIVE",
       "call_premium": 2.19,
-      "put_premium": 11.98,
+      "put_premium": 12.0,
       "unusual": false,
       "score": 3,
       "direction": "BULLISH",
       "call_vol": 19739,
-      "put_vol": 11842,
+      "put_vol": 11843,
       "expiry_next_week": "2026-09-25",
       "dte_next_week": 13,
       "score_next_week": 3,
