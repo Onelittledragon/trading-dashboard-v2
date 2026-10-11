@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-11T18:46:34.082581+00:00",
+  "timestamp": "2026-10-11T22:31:37.030849+00:00",
   "date": "Sunday, October 11 2026",
   "market_status": "CLOSED",
   "market_bias": "BEARISH",
@@ -90,7 +90,7 @@
         "low": 40,
         "high": 45,
         "samples": 66,
-        "median": 38.1
+        "median": 38.0
       }
     },
     {
@@ -198,10 +198,10 @@
       "direction": "BULLISH",
       "call_vol": 51515,
       "put_vol": 11765,
-      "expiry_next_week": "2026-10-23",
-      "dte_next_week": 12,
-      "score_next_week": 4,
-      "direction_next_week": "BULLISH",
+      "expiry_next_week": "2026-10-19",
+      "dte_next_week": 8,
+      "score_next_week": 0,
+      "direction_next_week": "NEUTRAL",
       "recovery_rsi": {
         "low": 35,
         "high": 40,
@@ -221,12 +221,12 @@
       "gex": 3.87,
       "gex_regime": "POSITIVE",
       "call_premium": 2.31,
-      "put_premium": 6.21,
+      "put_premium": 6.32,
       "unusual": false,
       "score": 4,
       "direction": "BULLISH",
       "call_vol": 20499,
-      "put_vol": 11654,
+      "put_vol": 11668,
       "expiry_next_week": "2026-10-23",
       "dte_next_week": 12,
       "score_next_week": 3,
@@ -256,10 +256,10 @@
       "direction": "BULLISH",
       "call_vol": 157321,
       "put_vol": 87446,
-      "expiry_next_week": "2026-10-23",
-      "dte_next_week": 12,
-      "score_next_week": 5,
-      "direction_next_week": "BULLISH",
+      "expiry_next_week": "2026-10-19",
+      "dte_next_week": 8,
+      "score_next_week": 0,
+      "direction_next_week": "NEUTRAL",
       "recovery_rsi": {
         "low": 35,
         "high": 40,
@@ -285,8 +285,8 @@
       "direction": "BEARISH",
       "call_vol": 7562,
       "put_vol": 13201,
-      "expiry_next_week": "2026-10-21",
-      "dte_next_week": 10,
+      "expiry_next_week": "2026-10-23",
+      "dte_next_week": 12,
       "score_next_week": 0,
       "direction_next_week": "NEUTRAL",
       "recovery_rsi": {
@@ -343,10 +343,10 @@
       "direction": "BULLISH",
       "call_vol": 60404,
       "put_vol": 29376,
-      "expiry_next_week": "2026-10-19",
-      "dte_next_week": 8,
-      "score_next_week": 0,
-      "direction_next_week": "NEUTRAL",
+      "expiry_next_week": "2026-10-23",
+      "dte_next_week": 12,
+      "score_next_week": 4,
+      "direction_next_week": "BULLISH",
       "recovery_rsi": {
         "low": 40,
         "high": 45,
@@ -401,10 +401,10 @@
       "direction": "BULLISH",
       "call_vol": 21915,
       "put_vol": 17000,
-      "expiry_next_week": "2026-10-19",
-      "dte_next_week": 8,
-      "score_next_week": 0,
-      "direction_next_week": "NEUTRAL",
+      "expiry_next_week": "2026-10-23",
+      "dte_next_week": 12,
+      "score_next_week": 2,
+      "direction_next_week": "BULLISH",
       "recovery_rsi": {
         "low": 30,
         "high": 35,
@@ -482,12 +482,12 @@
       "gex": 7.78,
       "gex_regime": "POSITIVE",
       "call_premium": 10.06,
-      "put_premium": 2.12,
+      "put_premium": 2.06,
       "unusual": false,
       "score": 3,
       "direction": "BULLISH",
       "call_vol": 5203,
-      "put_vol": 5882,
+      "put_vol": 5879,
       "expiry_next_week": "2026-10-23",
       "dte_next_week": 12,
       "score_next_week": 3,
@@ -546,15 +546,15 @@
       "direction": "BULLISH",
       "call_vol": 19724,
       "put_vol": 8779,
-      "expiry_next_week": "2026-10-19",
-      "dte_next_week": 8,
-      "score_next_week": 0,
-      "direction_next_week": "NEUTRAL",
+      "expiry_next_week": "2026-10-23",
+      "dte_next_week": 12,
+      "score_next_week": 2,
+      "direction_next_week": "BULLISH",
       "recovery_rsi": {
         "low": 40,
         "high": 45,
         "samples": 53,
-        "median": 36.7
+        "median": 36.8
       }
     },
     {
@@ -623,8 +623,8 @@
       "direction": "BEARISH",
       "call_vol": 308917,
       "put_vol": 396605,
-      "expiry_next_week": "2026-10-19",
-      "dte_next_week": 8,
+      "expiry_next_week": "2026-10-21",
+      "dte_next_week": 10,
       "score_next_week": 0,
       "direction_next_week": "NEUTRAL",
       "recovery_rsi": null
@@ -678,30 +678,6 @@
       "recovery_rsi": null
     },
     {
-      "ticker": "NVDA",
-      "price": 229.28,
-      "change": -0.52,
-      "volume": 84470000,
-      "expiry": "2026-10-12",
-      "dte": 1,
-      "pcr_vol": 0.95,
-      "pcr_oi": 1.0,
-      "gex": -1.29,
-      "gex_regime": "NEGATIVE",
-      "call_premium": 19.0,
-      "put_premium": 23.85,
-      "unusual": true,
-      "score": 1,
-      "direction": "NEUTRAL",
-      "call_vol": 204799,
-      "put_vol": 194549,
-      "expiry_next_week": "2026-10-23",
-      "dte_next_week": 12,
-      "score_next_week": 4,
-      "direction_next_week": "BULLISH",
-      "recovery_rsi": null
-    },
-    {
       "ticker": "CRWV",
       "price": 82.08,
       "change": 0.61,
@@ -724,6 +700,12 @@
       "score_next_week": 2,
       "direction_next_week": "BULLISH",
       "recovery_rsi": null
+    },
+    {
+      "ticker": "NVDA",
+      "error": "database is locked",
+      "score": 0,
+      "direction": "NEUTRAL"
     }
   ],
   "top_picks": [
@@ -782,7 +764,7 @@
         "low": 40,
         "high": 45,
         "samples": 66,
-        "median": 38.1
+        "median": 38.0
       }
     },
     {
