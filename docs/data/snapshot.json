@@ -1,7 +1,7 @@
 {
-  "timestamp": "2026-10-26T04:29:02.771598+00:00",
+  "timestamp": "2026-10-26T10:25:59.278485+00:00",
   "date": "Monday, October 26 2026",
-  "market_status": "CLOSED",
+  "market_status": "OPEN",
   "market_bias": "NEUTRAL",
   "bias_desc": "Mixed signals \u2014 wait for clarity, reduce size",
   "bias_color": "gray",
@@ -205,35 +205,6 @@
       }
     },
     {
-      "ticker": "AMD",
-      "price": 516.79,
-      "change": 1.74,
-      "volume": 15135900,
-      "expiry": "2026-10-26",
-      "dte": 0,
-      "pcr_vol": 0.63,
-      "pcr_oi": 1.0,
-      "gex": -8.22,
-      "gex_regime": "NEGATIVE",
-      "call_premium": 14.97,
-      "put_premium": 15.78,
-      "unusual": true,
-      "score": 3,
-      "direction": "BULLISH",
-      "call_vol": 45670,
-      "put_vol": 28822,
-      "expiry_next_week": "2026-11-02",
-      "dte_next_week": 7,
-      "score_next_week": 2,
-      "direction_next_week": "BULLISH",
-      "recovery_rsi": {
-        "low": 35,
-        "high": 40,
-        "samples": 55,
-        "median": 35.0
-      }
-    },
-    {
       "ticker": "BABA",
       "price": 99.64,
       "change": -2.14,
@@ -319,6 +290,30 @@
         "samples": 54,
         "median": 34.2
       }
+    },
+    {
+      "ticker": "AMD",
+      "price": 516.79,
+      "change": 1.74,
+      "volume": 15135900,
+      "expiry": "2026-10-26",
+      "dte": 0,
+      "pcr_vol": 0.63,
+      "pcr_oi": 1.0,
+      "gex": 0.0,
+      "gex_regime": "NEGATIVE",
+      "call_premium": 14.97,
+      "put_premium": 15.78,
+      "unusual": false,
+      "score": 2,
+      "direction": "BULLISH",
+      "call_vol": 45670,
+      "put_vol": 28822,
+      "expiry_next_week": "2026-11-02",
+      "dte_next_week": 7,
+      "score_next_week": 2,
+      "direction_next_week": "BULLISH",
+      "recovery_rsi": null
     },
     {
       "ticker": "AMZN",
