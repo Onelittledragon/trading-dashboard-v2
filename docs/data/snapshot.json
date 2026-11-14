@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-11-14T09:49:59.343128+00:00",
+  "timestamp": "2026-11-14T16:11:39.015384+00:00",
   "date": "Saturday, November 14 2026",
   "market_status": "CLOSED",
   "market_bias": "NEUTRAL",
@@ -234,6 +234,35 @@
       }
     },
     {
+      "ticker": "RKLB",
+      "price": 61.53,
+      "change": -3.96,
+      "volume": 13178500,
+      "expiry": "2026-11-20",
+      "dte": 6,
+      "pcr_vol": 0.55,
+      "pcr_oi": 0.93,
+      "gex": 3.49,
+      "gex_regime": "POSITIVE",
+      "call_premium": 2.17,
+      "put_premium": 1.41,
+      "unusual": false,
+      "score": 3,
+      "direction": "BULLISH",
+      "call_vol": 16528,
+      "put_vol": 9150,
+      "expiry_next_week": "2026-11-27",
+      "dte_next_week": 13,
+      "score_next_week": 4,
+      "direction_next_week": "BULLISH",
+      "recovery_rsi": {
+        "low": 35,
+        "high": 40,
+        "samples": 54,
+        "median": 36.7
+      }
+    },
+    {
       "ticker": "AAPL",
       "price": 356.27,
       "change": 0.39,
@@ -346,7 +375,7 @@
         "low": 35,
         "high": 40,
         "samples": 65,
-        "median": 35.2
+        "median": 35.3
       }
     },
     {
@@ -361,12 +390,12 @@
       "gex": -1.86,
       "gex_regime": "NEGATIVE",
       "call_premium": 119.96,
-      "put_premium": 375.85,
+      "put_premium": 375.16,
       "unusual": true,
       "score": 3,
       "direction": "BULLISH",
       "call_vol": 38568,
-      "put_vol": 23961,
+      "put_vol": 23954,
       "expiry_next_week": "2026-11-27",
       "dte_next_week": 13,
       "score_next_week": 2,
@@ -643,12 +672,6 @@
       "recovery_rsi": null
     },
     {
-      "ticker": "RKLB",
-      "error": "database is locked",
-      "score": 0,
-      "direction": "NEUTRAL"
-    },
-    {
       "ticker": "PANW",
       "price": 322.24,
       "change": -0.13,
@@ -657,15 +680,15 @@
       "dte": 6,
       "pcr_vol": 0.9,
       "pcr_oi": 0.72,
-      "gex": -0.8,
+      "gex": -0.79,
       "gex_regime": "NEGATIVE",
       "call_premium": 5.42,
-      "put_premium": 6.03,
+      "put_premium": 5.96,
       "unusual": false,
       "score": 0,
       "direction": "NEUTRAL",
       "call_vol": 5626,
-      "put_vol": 5072,
+      "put_vol": 5069,
       "expiry_next_week": "2026-11-27",
       "dte_next_week": 13,
       "score_next_week": 1,
