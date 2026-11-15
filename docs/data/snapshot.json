@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-11-15T19:56:37.401997+00:00",
+  "timestamp": "2026-11-15T23:52:37.553314+00:00",
   "date": "Sunday, November 15 2026",
   "market_status": "CLOSED",
   "market_bias": "NEUTRAL",
@@ -230,6 +230,35 @@
         "low": 40,
         "high": 45,
         "samples": 53,
+        "median": 36.7
+      }
+    },
+    {
+      "ticker": "RKLB",
+      "price": 61.53,
+      "change": -3.96,
+      "volume": 13178500,
+      "expiry": "2026-11-20",
+      "dte": 5,
+      "pcr_vol": 0.55,
+      "pcr_oi": 0.93,
+      "gex": 3.49,
+      "gex_regime": "POSITIVE",
+      "call_premium": 2.17,
+      "put_premium": 1.41,
+      "unusual": false,
+      "score": 3,
+      "direction": "BULLISH",
+      "call_vol": 16528,
+      "put_vol": 9150,
+      "expiry_next_week": "2026-11-27",
+      "dte_next_week": 12,
+      "score_next_week": 4,
+      "direction_next_week": "BULLISH",
+      "recovery_rsi": {
+        "low": 35,
+        "high": 40,
+        "samples": 54,
         "median": 36.7
       }
     },
@@ -641,12 +670,6 @@
       "score_next_week": 5,
       "direction_next_week": "BEARISH",
       "recovery_rsi": null
-    },
-    {
-      "ticker": "RKLB",
-      "error": "database is locked",
-      "score": 0,
-      "direction": "NEUTRAL"
     },
     {
       "ticker": "PANW",
