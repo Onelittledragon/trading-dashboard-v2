@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-11-15T06:56:15.717425+00:00",
+  "timestamp": "2026-11-15T14:36:42.278087+00:00",
   "date": "Sunday, November 15 2026",
   "market_status": "CLOSED",
   "market_bias": "NEUTRAL",
@@ -375,7 +375,7 @@
         "low": 35,
         "high": 40,
         "samples": 65,
-        "median": 35.2
+        "median": 35.3
       }
     },
     {
@@ -390,12 +390,12 @@
       "gex": -1.88,
       "gex_regime": "NEGATIVE",
       "call_premium": 119.96,
-      "put_premium": 375.85,
+      "put_premium": 375.16,
       "unusual": true,
       "score": 3,
       "direction": "BULLISH",
       "call_vol": 38568,
-      "put_vol": 23961,
+      "put_vol": 23954,
       "expiry_next_week": "2026-11-27",
       "dte_next_week": 12,
       "score_next_week": 2,
@@ -683,12 +683,12 @@
       "gex": -0.84,
       "gex_regime": "NEGATIVE",
       "call_premium": 5.42,
-      "put_premium": 6.03,
+      "put_premium": 5.96,
       "unusual": false,
       "score": 0,
       "direction": "NEUTRAL",
       "call_vol": 5626,
-      "put_vol": 5072,
+      "put_vol": 5069,
       "expiry_next_week": "2026-11-27",
       "dte_next_week": 12,
       "score_next_week": 1,
